@@ -1,0 +1,20 @@
+package com.lc.listword;
+
+public class NewWord {
+	private String jpWord;
+	private String vnWord;
+	
+	public NewWord(String jpword, String vnword) {
+		// TODO Auto-generated constructor stub
+		jpWord = jpword;
+		vnWord = vnword;
+	}
+	
+	public String getJpWord(){
+		return jpWord;
+	}
+	
+	public String getVnWord(){
+		return vnWord;
+	}
+}

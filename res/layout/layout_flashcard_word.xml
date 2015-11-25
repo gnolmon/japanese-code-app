@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layoutOfFlashCard"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="#68BF60"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tvWordOfFlashCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:text="Word"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+</LinearLayout>

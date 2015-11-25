@@ -1,0 +1,57 @@
+だい１か 
+
+1. N1 は N2 です.
+   ＊ Ý nghĩa: N1 là N2 
+   ＊ Cách dùng :  -  Danh từ đứng trước は là chủ đề hoặc chủ ngữ trong câu. 
+		   - です được sử dụng cuối câu khẳng định, biểu lộ sự lịch sự đối với người nghe. 
+		   -  Đứng trước です là một danh từ hoặc tính từ. 
+  Chú ý:  は khi là trợ từ được đọc là wa, không phải ha 
+  Ví dụ: 1)   わたしは たなかです。                 Tôi là Tanaka.  
+          2)   わたしは がくせい です。 Tôi là sinh viên.
+     
+2． N1 は N2 ではありません。
+   	＊ Ý nghĩa: N1 không phải là N2 
+   	＊ Cách dùng:  - ではありません là dạng phủ định của です. 
+		  - Trong hội thoại người ta có thể dùng じゃありません thay cho ではありません  
+ Ví dụ:     ラオさんは エンジニアでは（じゃ）ありません。           Anh Rao không phải là kỹ sư.  
+ Chú ý :  では đọc là dewa   
+
+3． S + か 
+1) Câu hỏi nghi vấn (câu hỏi Có Không) 
+	＊ Cách dùng:  - Để tạo một câu hỏi chỉ cần thêm か vào cuối câu. 
+		       - Câu trả lời cho loại câu hỏi này luôn phải có はい (vâng, đúng) hoặc いいえ (không, không phải ). Nếu giản lược đi bị xem là thất lễ.    
+
+ Ví dụ: 1) マイさんは ベトナム人 じん ですか。 Bạn Mai là người Việt Nam phải không?        
+	    ...はい、ベトナム人 じん です。 … Đúng, (bạn ấy) là người Việt Nam. 
+ 	 2)  ミラさんは がくせい ですか。 Bạn Mira là học sinh phải không? 
+               ...いいえ、がくせい ではありません。            …Không, (bạn ấy) không phải là học sinh. 
+2)  Câu hỏi có từ để hỏi  
+	＊ Cách dùng:  - Vị trí đặt từ để hỏi chính là chỗ có từ mà bạn muốn hỏi.  
+	       - Cuối câu hỏi đặt thêm trợ từ か. 
+ Ví dụ:	あの人 ひと は だれですか。      Người kia là ai? 
+  		...（あの人は） やまだ さんです。 ...(Người kia) Là anh Yamada. 
+ Chú ý: Khi nói thì lên giọng ở trợ từ か   
+4．  N + も
+	＊  Ý nghĩa: N cũng 
+	＊ Cách dùng: Trợ từ も được sử dụng thay cho は khi những thông tin về chủ đề của câu giống với những thông tin của chủ đề trước đó.  
+ Ví dụ: 	わたしは ベトナム人 じん です。       Tôi là người Việt Nam.         
+		タンさんも ベトナム人 じん です。    Anh Tân cũng là người Việt Nam.  
+5.  N1 の N2    
+	＊ Ý nghĩa: N2 c ủ a N1, N2 thu ộ c v ề N1 
+	＊ Cách dùng:  - Trợ từ の dùng để nối 2 danh từ.  
+		       - N1 làm rõ nghĩa cho N2.  
+		       - Trong bài này, N1 là một tổ chức, một nhóm mà N2 thuộc vào đó. 
+ Ví dụ:  わたしは FPTだいがく のがくせいです。 Tôi là sinh viên của trường Đại học FPT.  
+  
+6. ～さん 
+	＊ Cách dùng:  - Trong tiếng Nhật sử dụng chữ さん đứng ngay sau tên của người nghe hoặc người thứ 3 để bày tỏ sự kính trọng đối với người đó. 
+		       - Chữ さん không bao giờ sử dụng sau tên của chính mình. 
+  Ví dụ:  わたしは たなかです。                 Tôi là Tanaka. 
+	   あのかたは きむらさんです。        Vị kia là Kimura. 
+ Chú ý: Khi trao đổi trực tiếp thì người Nhật ít sử dụng あなた khi đã biết tên của người nghe, mà sẽ dùng tên để gọi. Ngoài ra, ở Nhật khi gọi một người nào đó thì gọi nguyên cả tên và họ hoặc chỉ cần gọi họ là đủ. Chỉ gọi tên trong những trường hợp bạn bè quen thân hay người thân trong gia đình.  
+
+7.  ～さい
+	＊ Cách dùng:  - Khi nói về tuổi thì thêm chữ さい (cách đếm tuổi) sau số thứ tự.  (Bảng đếm tuổi tham khảo trang 8) - Khi hỏi tuổi sử dụng nghi vấn từ なんさい. Trường hợp lễ phép hơn dùng từ おいく つ. 
+ Ví dụ:   すずきさんは なんさい（おいくつ）ですか。 Cô Suzuki bao nhiêu tuổi? 
+	   ...（わたしは）29 さいです。        ...(Tôi ) 29 tuổi 
+	   ...   29 です。 		...29. 

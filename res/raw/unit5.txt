@@ -1,0 +1,52 @@
+﻿いきます/ikimasu/đi
+きます/kimasu/đến
+かえります/kaerimasu/về, trở về
+こうじょう/koujou/nhà máy
+えき/eki/ga
+ぎんこう/ginkou/ngân hàng
+びょういん/byouin/bệnh viện
+デパート/depa-to/cửa hàng bách hóa
+スーパー/su-pa/siêu thị
+ほんや/honya/hiệu sách
+～や/~ya/hiệu ~, cửa hàng ~
+～がつ/~gatsu/tháng ~
+なんがつ/nagatsu/tháng mấy
+ついたち/tsuitachi/ngày mồng một
+ふつか/futsuka/ngày mùng 2, 2 ngày
+みっか/mikka/ngày mùng 3, 3 ngày
+よっか/yokka/ngày mùng 4, 4 ngày
+いつか/itsuka/ngày mùng 5, 5 ngày
+むいか/muika/ngày mùng 6, 6 ngày
+なのか/nanoka/ngày mùng 7, 7 ngày
+ようか/youka/ngày mùng 8, 8 ngày
+ここのか/kokonoka/ngày mùng 9, 9 ngày
+とおか/tooka/ngày mùng 10, 10 ngày
+じゅうよっか/juuyokka/ngày 14, 14 ngày
+はつか/hatsuka/ngày 20, 20 ngày
+にじゅうよっか/nijuuyokka/ngày 24, 24 ngày
+～にち/~nichi/ngày ~ , ~ ngày
+なんにち/nannichi/ngày bao nhiêu, bao nhiêu ngày
+いつ/itsu/bao giờ, lúc nào, khi nào
+せんしゅう/senshuu/tuần trước
+こんしゅう/konshuu/tuần này
+らいしゅう/raishuu/tuần sau
+せんげつ/sengetsu/tháng trước
+こんげつ/kongetsu/tháng này
+らいげつ/raigetsu/tháng sau
+きょねん/kyonen/năm ngoái
+ことし/kotoshi/năm nay
+らいねん/raine/năm sau
+たんじょうび/tajoubi/sinh nhật, ngày sinh
+ひこうき/hikouki/máy bay
+ふね/fune/thuyền, tàu thủy
+でんしゃ/densha/tàu điện
+バス/basu/xe bus
+タクシー/takushi-/xe taxi
+ちかてつ/chitetsu/tàu điện ngầm
+しんかんせん/shinkansen/tàu shinkansen
+あるいて/aruite/đi bộ
+ひと/hito/người
+ともだち/tomodachi/bạn
+こいびと/koibito/người yêu
+ひとりで/hitoride/một mình
+～ばんせん/~bansen/bến tàu số ~ , đường tàu số ~

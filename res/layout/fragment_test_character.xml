@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCC52"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/spacetitleCharWrite"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#014C4B"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvTitleunit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/check"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/backToChar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" >
+
+            <ImageView
+                android:id="@+id/iv_CharNext"
+                android:layout_width="15dp"
+                android:layout_height="18dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="0dp"
+                android:background="@drawable/next" />
+
+            <TextView
+                android:id="@+id/tvNextChar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/iv_CharNext"
+                android:text="@string/back"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvTarget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Next"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp" />
+
+    <com.ana.DrawCharacter.DrawView
+        android:id="@+id/drawview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="120dp"
+        android:background="#FFFFFF" >
+    </com.ana.DrawCharacter.DrawView>
+
+    <RelativeLayout
+        android:id="@+id/backHint"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="120dp"
+        android:visibility="invisible" >
+
+        <WebView
+            android:id="@+id/wv_detail"
+            android:layout_width="320dp"
+            android:layout_height="240dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnCharNext"
+        android:layout_width="20dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="0dp"
+        android:background="@drawable/next" />
+
+    <Button
+        android:id="@+id/btnCharBack"
+        android:layout_width="20dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="0dp"
+        android:background="@drawable/back" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnCheck"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/check" />
+
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/reset" />
+    </LinearLayout>
+
+</RelativeLayout>

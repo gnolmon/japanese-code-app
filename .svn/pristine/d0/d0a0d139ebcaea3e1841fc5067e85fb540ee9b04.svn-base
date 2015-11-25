@@ -1,0 +1,56 @@
+package com.lc.SlidingPaneUnit;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+import com.example.japaneseapp.NewWordActivity;
+import com.example.japaneseapp.R;
+import com.lc.adapter.ListWordAdapter;
+import com.lc.listword.NewWord;
+
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ListView;
+
+public class WordFragment extends Fragment{
+	
+	private ListView lvlistWord;
+	private ListWordAdapter listWordAdapter;
+	private int idUnit;
+	private View v;
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		v = inflater.inflate(R.layout.rightside_word_pane, container, false);
+		lvlistWord = (ListView) v.findViewById(R.id.listWordEachUnit);
+		idUnit = 0;
+		listWordAdapter = new ListWordAdapter(getActivity(),
+				R.layout.item_newword, NameUnit[idUnit]);
+		lvlistWord.setAdapter(listWordAdapter);
+		setHasOptionsMenu(true);
+		return v;
+	}
+	
+	
+	
+	public int NameUnit[] = {R.raw.unit1, R.raw.unit2,R.raw.unit3,R.raw.unit4,R.raw.unit5,
+			R.raw.unit6, R.raw.unit7,R.raw.unit8,R.raw.unit9,R.raw.unit10,
+			R.raw.unit11, R.raw.unit12,R.raw.unit13,R.raw.unit14,R.raw.unit15,
+			R.raw.unit16, R.raw.unit17,R.raw.unit18,R.raw.unit19};
+	
+	public void setUnit(int idUnit) {
+		this.idUnit = idUnit;
+		lvlistWord = (ListView) v.findViewById(R.id.listWordEachUnit);
+		listWordAdapter = new ListWordAdapter(getActivity(),
+				R.layout.item_newword, NameUnit[idUnit]);
+		lvlistWord.setAdapter(listWordAdapter);
+	}
+
+}

@@ -1,0 +1,54 @@
+package com.lc.DetailCharacter;
+
+import com.example.japaneseapp.R;
+
+import android.app.Dialog;
+import android.content.Context;
+import android.view.Window;
+import android.widget.TextView;
+
+public class DetailGridView extends Dialog {
+
+	private Context mContext;
+	private PronunciationCharacter pronunciationCharacter;
+
+	public DetailGridView(Context context) {
+		super(context);
+		// TODO Auto-generated constructor stub
+		mContext = context;
+		requestWindowFeature(Window.FEATURE_NO_TITLE);
+	}
+
+	public void showDetail(int position, boolean isHiragana) {
+		setContentView(R.layout.dialog_show_detail_character);
+		TextView textHiraga = (TextView) findViewById(R.id.detailCharacter);
+		TextView textRomaji = (TextView) findViewById(R.id.detailRomaji);
+		if (isHiragana){
+			textHiraga.setText(hiraganaAdapter[position]);
+		} else {
+			textHiraga.setText(katakanaAdapter[position]);
+		}
+		
+		textRomaji.setText(romajiAdapter[position]);
+		pronunciationCharacter = new PronunciationCharacter(mContext);
+		pronunciationCharacter.play(position);
+		show();
+	}
+
+	public String[] romajiAdapter = { "a", "i", "u", "e", "o", "ka", "ki",
+			"ku", "ke", "ko", "sa", "shi", "su", "se", "so", "ta", "chi",
+			"tsu", "te", "to", "na", "ni", "nu", "ne", "no", "ha", "hi", "fu",
+			"he", "ho", "ma", "mi", "mu", "me", "mo", "ya", " ", "yu", " ",
+			"yo", "ra", "ri", "ru", "re", "ro", "wa", "wo", "n" };
+
+	public String[] hiraganaAdapter = { "あ", "い", "う", "え", "お", "か", "き", "く",
+			"け", "こ", "さ", "し", "す", "せ", "そ", "た", "ち", "つ", "て", "と", "な",
+			"に", "ぬ", "ね", "の", "は", "ひ", "ふ", "へ", "ほ", "ま", "み", "む", "め",
+			"も", "や", " ", "ゆ", " ", "よ", "ら", "り", "る", "れ", "ろ", "わ", "を",
+			"ん" };
+
+	public String[] katakanaAdapter = { "ア", "イ", "ウ", "エ", "オ", "カ", "キ", "ク",
+			"ケ", "コ", "サ", "シ", "ス", "セ", "ソ", "タ", "チ", "ツ", "テ", "ト", "ナ",
+			"ニ", "ヌ", "ネ", "ノ", "ハ", "ヒ", "フ", "ヘ", "ホ", "マ", "ミ", "ム", "メ",
+			"モ", "ヤ", "ユ", "ヨ", "ラ", "リ", "ル", "レ", "ロ", "ワ", "ヲ", "ン" };
+}

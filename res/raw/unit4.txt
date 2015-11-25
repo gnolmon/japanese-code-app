@@ -1,0 +1,45 @@
+﻿おきます/okimasu/thức dậy
+ねます/nemasu/ngủ
+はたらきます/hatarakimasu/làm việc
+やすみます/yasumimasu/nghỉ
+べんきょうします/benkyoushimasu/học
+おわります/owarimasu/xong, kết thúc
+いま/ima/bây giờ
+~じ/~ji/~giờ
+~ふん/~fun/~phút 2,5,7,9
+~ぷん/~bun/~phút 1,3,4,6,8,10
+はん/han/rưỡi
+なんじ/nanji/mấy giờ
+なんぷん/nanbun/mấy phút
+ごぜん/gozen/buổi sáng
+ごご/gogo/buổi chiều
+あさ/asa/sáng
+ひる/hiru/trưa
+ばん/ban/tối
+よる/yoru/tối muộn (đêm)
+おととい/ototoi/hôm kia
+きのう/kinou/hôm qua
+きょう/kyou/hôm nay
+あした/ashita/ngày mai
+あさって/asatte/ngày kia
+けさ/kesa/sáng nay
+こんばん/konban/tối nay
+まいあさ/maiasa/hằng sáng
+まいばん/maiban/hàng tối
+まいにち/mainichi/hàng ngày
+にほんご/nihongo/tiếng Nhật
+べんきょう/benkou/học tập
+こうぎ/kougi/bài giảng, giờ nghe giảng
+けんがく/kengaku/tham quan, kiến tập
+から/kara/từ~
+まで/made/đến~
+にちようび/nichiyoubi/ngày chủ nhật
+げつようび/getsuyoubi/thứ 2
+かようび/kayoubi/thứ 3
+すいようび/suiyoubi/thứ 4
+もくようび/mokuyoubi/thứ 5
+きんようび/kinyoubi/thứ 6
+どようび/doyoubi/thứ 7
+なんようび/nanyoubi/thứ mấy?
+そうですか/soudesuka/thế à?
+たいへんですね/taihendesune/gay quá nhỉ !, căng nhỉ !

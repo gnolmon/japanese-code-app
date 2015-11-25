@@ -1,0 +1,36 @@
+﻿います/imasu/có(người, loại vật)
+あります/arimasu/có(sự vật)
+いろいろ/iroiro/nhiều loại, các loại
+うえ/ue/trên
+した/shita/dưới
+まえ/mae/trước
+うしろ/ushiro/sau
+みぎ/migi/bên phải
+ひだり/hidari/bên trái
+なか/naka/trong
+そと/soto/ngoài
+となり/tonari/bên cạnh
+あいだ/aida/ở giữa
+ちかく/chikaku/gần
+もの/mono/đồ,đồ vật, vật phẩm,thứ
+ちず/chizu/bản đồ
+けしゴム/keshigomu/cục tẩy
+セロテープ/serote-pu/băng dính
+ホッチキス/hotchikisu/rập ghim, băng ghim
+パスポート/pasupo-to/hộ chiếu
+ベッド/beddo/giường
+おとこのひと/otokonohito/đàn ông
+おんなのひと/onnanohito/đàn bà
+おとこのこ/otokonoko/con trai
+おんなのこ/onnanoko/con gái
+レストラン/resutoran/quán ăn , nhà hàng
+こうえん/kouen/công viên
+たいしかん/taishikan/đại sứ quán
+ゆうびんきょく/yuubinkyoku/bưu điện
+ポスト/posuto/hòm thư
+ビル/biru/nhà cao tầng
+がっこう/gakko/trường học
+～や～/ya/~,~,v.v
+あのう/anou/làm ơn cho tôi hỏi ~, này,~ , dạ thưa,~
+いって まいります/itte mairimasu/tôi đi đây
+いって いらっしゃい/itte irashai/anh đi nhé

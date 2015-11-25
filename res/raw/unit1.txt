@@ -1,0 +1,32 @@
+﻿わたし/watashi/tôi
+わたしたち/watashitachi/chúng tôi, chúng ta
+あなた/anata/ông ,bà ,anh, chị ....
+あのひと/anohito/người ấy,người kia
+みなさん/minna san/các bạn, các anh, các chị
+せんせい/sensei/thầy giáo, cô giáo
+けんしゅうせい/kenshuusei/tu nghiệp viên
+～さん/san/ông ~,bà ~, anh ~, chị ~
+だれ/dare/ai?
+どなた/donata/câu hỏi lịch sự "ai?"
+はい/hai/vâng
+いいえ/iie/không
+でんき/denki/điện
+きかい/kikai/máy móc
+じどうしゃ/jidosha/xe hơi, ô tô
+コンピューター/konpyu-ta-/máy tính
+せんもん/senmon/chuyên môn
+～さい/~sai/ tuổi
+なんさい/nansai/bao nhiêu tuổi?
+おいくつ/oikutsu/kiểu lịch sự của "bao nhiêu tuổi?"
+にほん/nihon/Nhật bản
+インド/indo/Ấn độ
+インドネシア/indonejia/In-do-ne-xia
+かんこく/kankoku/Hàn quốc
+ちゅうごく/chuugoku/Trung quốc
+フィリピン/firipin/Phi-lip-pin
+タイ/tai/Thái lan
+マレーシア/mare-shia/Ma-lai-xia
+～じん/jin/người ~
+おはようございます/ohayougozaimasu/chào buổi sáng
+はじめまして/hajimemashite/xin chào ( lần gặp đầu tiên )
+どうぞよろしく/douzo yoroshiku/Hân hạnh được gặp (dùng sau khi giới thiêu tên)

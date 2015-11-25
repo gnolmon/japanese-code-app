@@ -1,0 +1,136 @@
+package com.lc.japaneseapp;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.os.Bundle;
+import android.support.v4.view.ViewPager;
+import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.Animation.AnimationListener;
+import android.view.animation.AnimationUtils;
+import android.widget.TextView;
+
+import com.example.japaneseapp.R;
+import com.example.japaneseapp.R.anim;
+import com.example.japaneseapp.R.id;
+import com.example.japaneseapp.R.layout;
+import com.example.japaneseapp.R.raw;
+import com.lc.SlideView.ViewFlashCardAdapter;
+import com.lc.listword.NewWord;
+
+public class FlashCardNewWordActivity extends Activity implements AnimationListener {
+	private Animation animationToMiddle;
+	private Animation animationFromMiddle;
+	private View layoutFlashCard;
+	private ViewPager mPager;
+	private ArrayList<NewWord> listWords;
+	private ViewFlashCardAdapter adapterJapWord;
+	private boolean isJapWord;
+	private int postionWord;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.fragment_flash_card_new_word);
+		
+		animationToMiddle = AnimationUtils.loadAnimation(this, R.anim.to_middle);
+		animationToMiddle.setAnimationListener(this);
+		animationFromMiddle = AnimationUtils.loadAnimation(this,
+				R.anim.from_middle);
+		animationFromMiddle.setAnimationListener(this);
+		layoutFlashCard = findViewById(R.id.spaceflashcard);
+		
+		mPager = (ViewPager) findViewById(R.id.flashcardWord);
+		listWords = new ArrayList<NewWord>();
+		readData();
+		adapterJapWord = new ViewFlashCardAdapter(
+				this, listWords);
+		mPager.setAdapter(adapterJapWord);
+		isJapWord = true;
+	}
+
+
+	
+	public void readData() {
+		InputStream in = this.getResources().openRawResource(
+				R.raw.unit1);
+		InputStreamReader inReader = new InputStreamReader(in);
+		BufferedReader bufferedReader = new BufferedReader(inReader);
+		String word, jpWord, vnWord;
+		StringTokenizer stringTokenizer;
+		while (true) {
+			try {
+				word = bufferedReader.readLine();
+				if (word == null)
+					break;
+				stringTokenizer = new StringTokenizer(word, "/");
+				jpWord = stringTokenizer.nextToken();
+				vnWord = stringTokenizer.nextToken();
+				NewWord newWord = new NewWord(jpWord, vnWord);
+				listWords.add(newWord);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+	@Override
+	public boolean onTouchEvent(MotionEvent event) {
+		switch(event.getAction()){
+		case MotionEvent.ACTION_DOWN:
+				layoutFlashCard.clearAnimation();
+				layoutFlashCard.setAnimation(animationToMiddle);
+				layoutFlashCard.startAnimation(animationToMiddle);
+
+			break;
+		}
+		return super.onTouchEvent(event);
+	}
+
+	@Override
+	public void onAnimationStart(Animation animation) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onAnimationEnd(Animation animation) {
+		if (animation == animationToMiddle){
+			layoutFlashCard.clearAnimation();
+			layoutFlashCard.setAnimation(animationFromMiddle);
+			layoutFlashCard.startAnimation(animationFromMiddle);
+			if(isJapWord) {
+				isJapWord =false;
+				postionWord = mPager.getCurrentItem();
+				adapterJapWord.setMeaning(isJapWord);
+				mPager.setAdapter(adapterJapWord);
+				mPager.setCurrentItem(postionWord);
+			}else {
+				isJapWord =true;
+				postionWord = mPager.getCurrentItem();
+				adapterJapWord.setMeaning(isJapWord);
+				mPager.setAdapter(adapterJapWord);
+				mPager.setCurrentItem(postionWord);
+			}
+		}
+	}
+
+	@Override
+	public void onAnimationRepeat(Animation animation) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+}

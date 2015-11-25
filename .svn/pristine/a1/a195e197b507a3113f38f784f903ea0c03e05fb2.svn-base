@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context="com.example.japaneseapp.SlidingPaneUnitActivity$PlaceholderFragment" >
+
+      <LinearLayout
+        android:id="@+id/spacefashTest"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#333333">
+
+          <Button
+              android:id="@+id/buttonList"
+              android:layout_marginLeft="20dp"
+              android:layout_width="30dp"
+              android:layout_height="wrap_content"
+              android:background="@drawable/listbutton"/>
+        <Button
+              android:id="@+id/buttonCard"
+              android:layout_width="30dp"
+              android:layout_marginLeft="20dp"
+              android:background="@drawable/cardbutton"
+              android:layout_height="wrap_content"/>
+        <Button
+              android:id="@+id/buttonTest"
+              android:layout_width="30dp"
+              android:layout_marginLeft="20dp"
+              android:layout_height="wrap_content"
+              android:background="@drawable/testbutton" />
+        </LinearLayout>
+    <LinearLayout
+        android:id="@+id/spacetitleunit"
+        android:layout_below="@id/spacefashTest"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"
+        android:background="#00ABA9"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:text="Unit" />
+        
+        </LinearLayout>
+    <ListView
+        android:id="@+id/listUnit"
+        android:layout_below="@id/spacetitleunit"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" >
+
+    </ListView>
+
+</RelativeLayout>

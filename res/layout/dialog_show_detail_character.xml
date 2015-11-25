@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent" >
+
+    <RelativeLayout
+        android:id="@+id/rldetail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/borderbutton"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/detailCharacter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="L"
+            android:textColor="#5082E5"
+            android:textSize="50dp" />
+
+        <TextView
+            android:id="@+id/detailRomaji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/detailCharacter"
+            android:layout_centerHorizontal="true"
+            android:text="T"
+            android:textColor="#5082E5"
+            android:textSize="20dp" />
+
+        <WebView
+            android:id="@+id/wv_detail"
+            android:layout_width="160dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+
+        <Button
+            android:id="@+id/sound"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/wv_detail"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/sound" />
+    </RelativeLayout>
+
+</RelativeLayout>

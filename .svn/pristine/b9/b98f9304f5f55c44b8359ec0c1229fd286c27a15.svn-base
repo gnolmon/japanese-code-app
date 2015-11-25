@@ -1,0 +1,87 @@
+package com.lc.SlidingPaneUnit;
+
+
+import com.example.japaneseapp.R;
+import com.example.japaneseapp.TestNewWordActivity;
+import com.lc.adapter.ListUnitAdapter;
+import com.lc.japaneseapp.FlashCardNewWordActivity;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.view.View.OnClickListener;
+import android.widget.AdapterView;
+import android.widget.Button;
+import android.widget.ListView;
+
+public class UnitFragment extends Fragment{
+	private ListView listNameUnit;
+	private ListUnitAdapter listUnitAdapter;
+	private Button btnCardFlash, btnTestNewWord;
+	private int idUnit = 0;
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		View v = inflater.inflate(R.layout.leftside_unit_pane, container, false);
+		listNameUnit = (ListView) v.findViewById(R.id.listUnit);
+		listUnitAdapter = new ListUnitAdapter(getActivity(), R.layout.item_unit_layout);
+		listNameUnit.setAdapter(listUnitAdapter);
+		listNameUnit.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+			@Override
+			public void onItemClick(AdapterView<?> parent, View view,
+					int position, long id) {
+				idUnit = position;
+				( (UnitChangeListener) getActivity()).onChangeUnit(position);
+			}
+		});
+		btnCardFlash = (Button) v.findViewById(R.id.buttonCard);
+		btnCardFlash.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(getActivity(),
+						FlashCardNewWordActivity.class);
+				intent.putExtra("ID_UNIT", idUnit);
+				startActivity(intent);
+			}
+		});
+		btnTestNewWord = (Button) v.findViewById(R.id.buttonTest);
+		btnTestNewWord.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(getActivity(),
+						TestNewWordActivity.class);
+				intent.putExtra("ID_UNIT", idUnit);
+				startActivity(intent);
+			}
+		});
+		
+		setHasOptionsMenu(true);
+		return v;
+	}
+	
+	@Override
+	public void onAttach(Activity activity) {
+		// TODO Auto-generated method stub
+		super.onAttach(activity);
+	}
+	
+	public interface UnitChangeListener{
+		public void onChangeUnit(int idUnit);
+	}
+	
+	public int NameUnit[] = {R.raw.unit1, R.raw.unit2,R.raw.unit3,R.raw.unit4,R.raw.unit5,
+			R.raw.unit6, R.raw.unit7,R.raw.unit8,R.raw.unit9,R.raw.unit10,
+			R.raw.unit11, R.raw.unit12,R.raw.unit13,R.raw.unit14,R.raw.unit15,
+			R.raw.unit16, R.raw.unit17,R.raw.unit18,R.raw.unit19};
+	
+	
+}

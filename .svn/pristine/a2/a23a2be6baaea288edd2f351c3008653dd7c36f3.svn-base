@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/spaceTitleTest"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#FF794D"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Test"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp" />
+
+        <ProgressBar
+            android:id="@+id/prgTime"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/spaceOfQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tvquestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Question"
+            android:textColor="#FF794D"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnanswer1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/borderbutton"
+            android:text="RadioButton"
+            android:textColor="#FF794D" />
+
+        <Button
+            android:id="@+id/btnanswer2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/borderbutton"
+            android:text="RadioButton"
+            android:textColor="#FF794D" />
+
+        <Button
+            android:id="@+id/btnanswer3"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/borderbutton"
+            android:text="RadioButton"
+            android:textColor="#FF794D" />
+
+        <Button
+            android:id="@+id/btnanswer4"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/borderbutton"
+            android:text="RadioButton"
+            android:textColor="#FF794D" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FF794D" />
+
+        <Button
+            android:id="@+id/btnReplayTestNewWord"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/replaybutton"
+            />
+    </LinearLayout>
+
+</LinearLayout>

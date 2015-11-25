@@ -1,0 +1,7191 @@
+h_a1 E E
+h_a2 S S
+
+h_i1 S SE E NE S
+h_i2 SE S S
+
+h_i1 S SE E NE S
+h_i2 SE S SW S
+
+h_a1 E E
+h_a2 S S
+h_a3 SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_i1 S SE E NE S
+h_i2 S S
+
+h_a1 E E
+h_a2 S S
+h_a3 SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_i1 S SE E NE SE
+h_i2 S SW S
+
+h_e1 SE SE
+h_e2 E SW N NE E S SE E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S SE E NE SE
+
+h_e1 E SE E
+h_e2 E SE SW N SW NE E S E NE SE
+
+h_e1 E E
+h_e2 E SW NE E S E NE SE
+
+h_i1 S SE E NE S
+h_i2 S SW S S
+
+h_e1 SE SE
+h_e2 E SW NE E S SW S E NE SE
+
+h_e1 E E
+h_e2 E SW NE E S E SE
+
+h_e1 E E
+h_e2 E SE SW N S SW NE E SE S E NE SE
+
+h_e1 E E
+h_e2 E SW NE E S SW S SE E NE SE
+
+h_e1 E E
+h_e2 E SW N SW NE E S E NE SE
+
+h_e1 E E
+h_e2 E SE SW S NW NE E S E NE SE
+
+h_e1 SE E SE SE
+h_e2 E SW NW NE E S SW S E NE SE
+
+h_e1 E SE E
+h_e2 E SW N NE S SW S SE E NE SE
+
+h_e1 E E
+h_e2 E SW NE E SE S SW S E NE SE
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 E SE S SW S
+
+h_e1 E E
+h_e2 E SW NE E SE S E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E S E NE SE
+
+h_e1 E E
+h_e2 E SW N NE S E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S SW SE N SE NE SE
+
+h_e1 E E
+h_e2 E SW NE E SE S SE NE SE
+
+h_e1 E E
+h_e2 E SW N NE E S SW S SE E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S SW S E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S SW SE E NE SE
+
+h_e1 E E
+h_e2 E SW NE E S SW SE NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S E NE SE
+
+h_e1 E E
+h_e2 E SW N NE E S SE NE SE
+
+h_e1 E E
+h_e2 E SW N NE E SE S SE NE SE
+
+h_e1 SE SE
+h_e2 E SE SW NE E S SE E NE SE
+
+h_e1 E E
+h_e2 E SW NE E SE S SW S SE E NE SE
+
+h_e1 E E
+h_e2 E SW NE E S SE E NE SE
+
+h_e1 E E
+h_e2 E NE SW NE E SE S E NE SE
+
+h_e1 E SE E
+h_e2 E SW NE E S SE E SE
+
+h_e1 E E
+h_e2 E N SW NE E SE S E NE SE
+
+h_e1 SE SE
+h_e2 E SE SW NE E S E NE SE
+
+h_o1 E E
+h_o2 S W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW W NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_a1 E S SW SE
+h_a2 SW S SW
+h_a3 SE SE
+
+h_a1 E SE S SW S SW SE
+h_a2 SW S SW SW
+h_a3 SE SE
+
+h_a1 E S SW S
+h_a2 SW SW
+h_a3 SE SE
+
+h_a1 E SE S SW SE
+h_a2 SW S SW
+h_a3 SE SE
+
+h_a1 E SE S SW SE
+h_a2 S SW SW
+h_a3 SE SE
+
+h_ka1 E SE S SW SE
+h_ka2 S SW S S
+h_ka3 SE SE
+
+h_ka1 E SE S SW S SW S
+h_ka2 SW SW
+h_ka3 SE SE
+
+h_ka1 E SE S SW SE
+h_ka2 SW S SW
+h_ka3 SE SE
+
+h_ka1 E S SW SE
+h_ka2 SW SW
+h_ka3 S S
+
+h_ka1 E S SW S
+h_ka2 S SW SW
+h_ka3 S S
+
+h_ka1 E SE S SW S
+h_ka2 S SW SW
+h_ka3 SE SE
+
+h_ka1 E SE S SW S SW SE
+h_ka2 SW S SW
+h_ka3 SE SE
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S SE S W SW S SE E NE SE NE S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S E SW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S N SW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S SE NW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S N SE NW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S SE W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S NW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE N SE W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S NW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S SE N W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S SW W SW SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S N SW W SW S SE E NE S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S SE S W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S W SW S SE E NE S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S SE W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S SE NW W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S W SW S SE E NE S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 SE S N W SW S SE E N SE S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S N W SW S SE E S
+
+h_ki1 E E
+h_ki2 E E
+h_ki3 S SW W SW S SE E NE S
+
+h_ku1 SW S SE S
+
+h_ku1 SW W SW N SE S
+
+h_ku1 SW N SW S SE S
+
+h_ku1 SW N SW N SE S
+
+h_ku1 SW S SW N S N S SE N SE E S
+
+h_ku1 SW S SE N S
+
+h_ku1 SW SE N S
+
+h_ku1 SW N SE S SE E S N S
+
+h_ku1 SW SE S
+
+h_ku1 SW N S SE E S
+
+h_ku1 SW N SE N S
+
+h_ku1 SW N S SE S
+
+h_ku1 SW N S E SE S
+
+h_ku1 SW SE E SE S
+
+h_ku1 SW SE E SE S
+
+h_ku1 SW S SE N SE N SE S
+
+h_ku1 SW S SE N SE S
+
+h_ku1 SW S SE N SE E SE S
+
+h_ku1 SW N S SE N S
+
+h_ku1 SW S SE N SE E S
+
+h_ku1 SW S SE N SE E S
+
+h_ku1 SW S SE E S
+
+h_ku1 SW S SE N S S
+
+h_ko1 E E
+h_ko2 S SE E E
+
+
+h_si1 S SE E NE SE
+
+h_a1 E E
+h_a2 S SE SE
+h_a3 S SW W NW N NE E SE S SE
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 S SE S SE N SE S
+h_a3 SW S SW W NW N NE E SE S S
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 SE E NE E
+h_a2 SW S SE S
+h_a3 NW S SW NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S SE S
+h_a3 S SW W NW N NE E SE S SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_i1 E E
+h_i2 S SE S
+h_i3 S SW W NW N NE E SE S SW S
+
+h_i1 E E
+h_i2 S SE S
+h_i3 S SW W NW N NE E SE S SW S
+
+h_i1 E E
+h_i2 S SE S
+h_i3 S SW W NW N NE E SE S SW S
+
+h_i1 E E
+h_i2 S SE S
+h_i3 S SW W NW N NE E SE S SW S
+
+h_i1 E E
+h_i2 S SE S
+h_i3 S SW W NW N NE E SE S SW S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_i1 S SE N SE NE S
+h_i2 S S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W N NE E SE S S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W N NE E SE S S
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E NE E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW SE
+
+h_a1 E E
+h_a2 S SE S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 SW S SE S
+h_a3 SW W NW N NE E SE S SW S SW S
+
+h_i1 S SE N SE N SE
+h_i2 SE S SE
+
+h_i1 S SE NE N SE
+h_i2 SE S SE
+
+h_i1 S SE NE N SE
+h_i2 SE S SE
+
+h_i1 S SE NE N SE
+h_i2 SE S SE
+
+h_i1 S SE N SE NE SE
+h_i2 SE S SE
+
+h_i1 E E
+h_i2 NE E SE S SW SE
+
+h_i1 E E
+h_i2 E NE E SE S SW SE
+
+h_i1 E E
+h_i2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+h_u3 E E
+h_u4 NE E SE SW SE SW N S SW N SW S
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 E SE S SW N SW N SW N S
+
+h_u1 E NE E
+h_u2 E NE E SE S SW N SW NE S
+
+h_u1 E E
+h_u2 E NE E SW NE E S SE E SE
+
+h_u1 E E
+h_u2 NE SW NE SE S SE NE SE
+
+h_u1 E E
+h_u2 E NE E SW NE SE S SE E SE
+
+h_u1 E E
+h_u2 E NE E SW W NE E SE S SE E NE SE
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW S
+h_a4 E E
+h_a5 S SE E S
+
+h_a1 E E
+h_a2 S S
+h_a3 S SW W NW N NE E SE S SW S
+h_a4 E E
+h_a5 S SE E S
+h_a6 S SW W NW N NE E SE S SW S
+
+h_a1 E E
+h_a2 S SE S E SE N S
+h_a3 S SW W NW N NE E SE S SW S
+
+h_i1 S SE N SE N SE NE N SE
+h_i2 SE S S
+
+h_i1 S SE NE SE
+h_i2 SE S S
+
+h_i1 S SE NE SE
+h_i2 SE S S
+h_i3 S N S N S N S N SE E S E NE SE
+h_i4 SE S SW SE SW E S N S N S S
+h_i5 S N S N S N S N SE SW N SE N S N S N S N S NE SE
+h_i6 SE S S
+
+h_i1 S SE NE SE
+h_i2 SE S S
+h_i3 S N S N S N S N SE E S E NE SE
+h_i4 SE S SW SE SW E S N S N S S
+h_i5 S N S N S N S N SE SW N SE N S N S N S N S NE SE
+h_i6 SE S S
+
+h_i1 S SE NE SE
+h_i2 SE S S
+h_i3 S N S N S N S N SE E S E NE SE
+h_i4 SE S SW SE SW E S N S N S S
+h_i5 S N S N S N S N SE SW N SE N S N S N S N S NE SE
+h_i6 SE S S
+
+h_i1 S SE NE SE
+h_i2 SE S S
+h_i3 S N S N S N S N SE E S E NE SE
+h_i4 SE S SW SE SW E S N S N S S
+h_i5 S N S N S N S N SE SW N SE N S N S N S N S NE SE
+h_i6 SE S S
+
+h_i1 S SE NE N SE
+h_i2 SE S SE
+
+h_i1 S SE N SE NE SE
+h_i2 SE S S
+
+h_i1 SE N SE NE S NE N SE
+h_i2 SE SE
+
+h_u1 E E
+h_u2 NE E SE S SW S
+
+h_u1 E E
+h_u2 NE E SE S SW W SE
+
+h_u1 SE E E
+h_u2 NE E SE S SW SE
+
+h_u1 SE E E
+h_u2 NE E SE S SW SE
+
+h_u1 E E
+h_u2 NE E SE S SW SE
+
+h_u1 E E
+h_u2 NE E SE S SW SE
+
+h_u1 E E
+h_u2 NE E SE S SW SE
+
+h_u1 E E
+h_u2 NE E SE S SW SE
+
+h_e1 E E
+h_e2 NE E NE SW NE E SE E SE
+
+h_e1 E E
+h_e2 E SW W SW NE E SE E SE
+
+h_e1 E E
+h_e2 E SW W SW NE E SE E SE
+
+h_e1 E E
+h_e2 E SW W SW NE E SE N S SE E NE SE
+
+h_e1 E E
+h_e2 E SW NE E SE S SE E SE
+
+h_o1 E E
+h_o2 S N SW N SW N SW E NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S N S N SW W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW N SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW W SW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW N SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S W SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S N W NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S N S NW N NE E SE S SW W S
+h_o3 S SE SE
+
+h_o1 E E
+h_o2 S N SW NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW NW N NE E SE S SW W S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S N SW W NW N NE E SE S SW S
+h_o3 SE SE
+
+h_o1 E E
+h_o2 S SW NW N NE E SE S SW S
+h_o3 SE SE
+
+h_ka1 NE E SE S SE
+h_ka2 S S
+h_ka3 S S
+
+h_ka1 E NE E SE S SW NW SE
+h_ka2 S S
+h_ka3 SE SE
+
+h_ka1 NE E SE S SW N SW N SW SE
+h_ka2 SW S S
+h_ka3 S S
+
+h_ka1 E SE S SW N SW SE
+h_ka2 S SW S
+h_ka3 SE SE
+
+h_ka1 W NE E SE S SW NW SE
+h_ka2 S S
+h_ka3 SE SE
+
+h_ka1 NE E SE S SW W NW SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 NE E SE S SW N SE
+h_ka2 S SW S
+h_ka3 SE SE
+
+h_ka1 NE E SE S SW NW SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 N NE E SE S SW NW SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 NE E SE S SW W SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 E SE S SW NW SE
+h_ka2 S SW S
+h_ka3 S SE S
+
+h_ka1 E SE S SW NW SE
+h_ka2 S SW S
+h_ka3 S SE S
+
+h_ka1 NE E SE S SW N SW W S N SE
+h_ka2 S S
+h_ka3 S S
+
+h_ka1 NE E SE S SW N SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 NE E SE S SW N SE
+h_ka2 S S
+h_ka3 S S
+
+h_ka1 NE E SE S SW W SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ka1 E SE S SW NW SE
+h_ka2 S SW S
+h_ka3 S S
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE N SE W SW W SW SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE N W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE N SE N SW W SW S E NE SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE W SW S SE E NE SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE SW W SW S SE E NE SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE N SE W SW S SE E NE SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE W SW S SE E NE SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 SE W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE W SW S SE E SE
+
+h_ki1 NE NE
+h_ki2 NE NE
+h_ki3 E SE W SW S SE E SE
+
+h_ku1 SW S SE N SE N S N S S
+
+h_ku1 SW S SE N SE N SE S
+
+h_ku1 SW S SE S
+
+h_ku1 SW S SE E S
+
+h_ke1 S E S NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S E S NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S N S N SE NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S SE NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S NE S
+h_ke2 E E
+h_ke3 S SW S
+
+h_ke1 S NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S NE S
+h_ke2 E E
+h_ke3 SE S S
+
+h_ke1 S SE NE S
+h_ke2 E E
+h_ke3 SE S S
+
+h_ke1 S N SE NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S N SE NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S N S NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ke1 S N SE NE S
+h_ke2 E E
+h_ke3 S S
+
+h_ko1 NE E E
+h_ko2 E NE NE
+
+h_ko1 NE E NE
+h_ko2 E NE NE
+
+h_ko1 NE E E
+h_ko2 E NE E
+
+h_ko1 NE E E
+h_ko2 E NE E
+
+h_ko1 NE E NE
+h_ko2 E NE NE
+
+h_si1 NE E NE
+h_si2 E SE W SW S SE E SE
+
+h_si1 NE E NE
+h_si2 E W SW S SE E SE
+
+
+h_si1 NE NE
+h_si2 E SE W SW S SE E SE
+
+h_si1 NE NE
+h_si2 E SE W SW S SE E SE
+
+h_si1 NE NE
+h_si2 E SE W SW S SE E SE
+
+h_si1 NE NE
+h_si2 E SE W SW S SE E SE
+
+h_si1 NE NE
+h_si2 SE W SW S SE E SE
+
+h_si1 S SE E SE
+
+h_su1 E E
+h_su2 S SW W NW N NE E SE S S
+
+h_su1 E E
+h_su2 S SW W NW N NE E SE S SW S
+
+h_su1 E E
+h_su2 S SW W NW N NE E S SW S
+
+h_se1 E E
+h_se2 S N S S
+h_se3 S SE E SE SE
+
+h_se1 E E
+h_se2 S S
+h_se3 S SE E SE
+
+h_se1 E E
+h_se2 S S
+h_se3 S SE E SE
+
+h_se1 E E
+h_se2 S S
+h_se3 S SE E SE
+
+h_so1 E E
+h_so2 SW E W SW S SE E S
+
+h_so1 E E
+h_so2 SW E SE E W SW S SE E N SE E S
+
+h_so1 E E
+h_so2 SW N S N S N S E S W SW W SW S SE S
+
+h_so1 E SW E W SW S SE E S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E SW W SW S SE E S N S E S N S E S S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N SW NE E S W SW S SE E SE N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E E
+h_so2 SW N S E W SW S SE N S SE N SE N S N S
+
+h_so1 E SW E W SW S SE N S NE S
+
+h_so1 E E
+h_so2 SW E W SW S SE N SE S
+
+h_so1 E SW NE E W SW S SE E SE
+
+h_so1 E W SW E W SW S SE N SE
+
+h_so1 E SE SW N E N SE W SW W SW S SE E N SE SE
+
+h_so1 E SW E SE E N S E SW W SW S SE E N SE N S SE
+
+h_so1 E SW N SW N SW NE E W SW S SE E NE SE
+
+h_so1 NE S SW SE E NE E W SW S SE E NE SE
+
+h_so1 NE SW SE NE E W SW S SE E NE SE
+
+h_so1 E NE SW N SW N S NE E SE W SW S SE E SE
+
+h_so1 E SW N E W SW S SE E S
+
+h_so1 E SW N E W SW S SE E S
+
+h_so1 NE E NE E SW N SW N SE E W SW S SE E NE S SE
+
+h_so1 E SE N SW E W SW S SE E NE SE
+
+h_so1 NE E SW E W SW S SE E SE
+
+h_so1 NE E SW E W SW S SE E SE
+
+h_so1 NE E SW E W SW S SE E SE
+
+h_so1 NE E SW E W SW S SE E SE
+
+h_so1 NE E SW E W SW S SE E SE
+
+h_so1 E SW N SW E NE W SW S SE E NE S SE
+
+h_so1 E SW E W SW S SE E SE
+
+h_so1 E SW S E W SW S SE E SE
+
+h_so1 E SW S E W SW S SE E SE
+
+h_so1 E SW S E W SW S SE E SE
+
+h_so1 E SW S E W SW S SE E SE
+
+h_so1 E SW E NE SE NE W SW S SE E SE
+
+h_ta1 E E
+h_ta2 S SW S S
+h_ta3 NE E E
+h_ta4 E E
+
+h_ta1 E E
+h_ta2 SW S SW
+h_ta3 NE E E
+h_ta4 E E
+
+h_ta1 E E
+h_ta2 S S
+h_ta3 NE E E
+h_ta4 E E
+
+h_ta1 E E
+h_ta2 S SW S S
+h_ta3 NE E E
+h_ta4 E NE E
+
+h_ta1 E E
+h_ta2 S S
+h_ta3 NE E E
+h_ta4 E E
+
+h_ti1 NW E E
+h_ti2 S SW S NE E SE S SW S
+
+h_ti1 SW E E
+h_ti2 SW NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 SW E NE E SE S SW W S
+
+h_ti1 W E E
+h_ti2 SW NE E SE S SW W S
+
+h_ti1 W E E
+h_ti2 SW NE E SE S SW W S
+
+h_ti1 W E E
+h_ti2 SW NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S SW NE E SE S SW N S
+
+h_ti1 E E
+h_ti2 S SW S NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S SW S NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S SW S NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 SW S SW NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 SW NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 SW S NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S SW NE E SE S SW W S
+
+h_ti1 E E
+h_ti2 S SW S SW E NE E SE S SW W S
+
+h_tu1 E NE E SE S SW W SE
+
+h_tu1 E NE E SE S SW N S NW SE
+
+h_tu1 E NE E SE S SW N S NW SE
+
+h_tu1 E NE E SE S SW W N SW N S S
+
+h_tu1 E NE E SE S SW SE
+
+h_tu1 E NE E SE S SW SE
+
+h_tu1 E NE E SE S SW N SW N SW SE
+
+h_tu1 E NE E SE S SW N SW N SW SE
+
+h_tu1 E NE E SE S SW N SW N SW SE
+
+h_tu1 E NE E SE S SW W SW SE
+
+h_tu1 E NE E SE S SW W S SE
+
+h_tu1 E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SE
+
+h_tu1 NE E SE S SW W SW SE
+
+h_tu1 NE E SE S SW W SW SE
+
+h_tu1 NE E SE S SW W SW SE
+
+h_tu1 NE E SE S SW W SW SE
+
+h_tu1 NE E SE S SW W SW SE
+
+h_tu1 E SE S SW W N SW N S SE
+
+h_tu1 E SE S SW W N SW N S SE
+
+h_tu1 E NE E SE S SW W SE
+
+h_tu1 E NE E SE S SW W N S NW SE
+
+h_te1 E W SW S SE E SE
+
+h_te1 E W SW S SE E SE
+
+h_te1 E W SW S SE E SE
+
+h_te1 E W SW S SE E SE
+
+h_te1 E W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E NE W SW S SE E SE
+
+h_te1 E W SW S SE E S N SE
+
+h_te1 E W SW S SE E S N SE
+
+h_te1 E W SW S SE E S N SE
+
+h_te1 E W SW S SE E S N SE
+
+h_te1 E W SW S SE E NE SE
+
+h_te1 E W SW S SE E NE SE
+
+h_te1 E W SW S SE E NE SE
+
+h_te1 E SE W SW S SE E SE
+
+h_te1 E W SW S SE E N S N SE
+
+h_to1 SE SE
+h_to2 SW S SE E S
+
+h_to1 SE SE
+h_to2 SW S SE E NE S
+
+h_ni1 S N S NE S
+h_ni2 NE E SE E
+h_ni3 E E
+
+h_ni1 S N SE NE S
+h_ni2 E SE E
+h_ni3 E E
+
+h_ni1 S N SE N S
+h_ni2 NW NE E NE
+h_ni3 E E
+
+h_ni1 S N SE NE S
+h_ni2 NE E NE
+h_ni3 E E
+
+h_ni1 S NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_ni1 S NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_ni1 S N S NE S
+h_ni2 E E
+h_ni3 E E
+
+h_ni1 S SE NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_ni1 S SE NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_ni1 S SE NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_ni1 S E NE S
+h_ni2 NE E E
+h_ni3 E E
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE E S E S N SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 S S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 SE SE
+h_na4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_ni1 E E
+h_ni2 S SW SW
+h_ni3 S SE S
+h_ni4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 SW SW
+h_na3 S SE SE
+h_na4 S SW NW NE E SE S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE SE
+h_na4 S SW W NW NE E S
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 S SE S
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW SW
+h_na3 SE SE
+h_na4 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE SE
+h_na4 S SW W NW NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S W NW N NE E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_na1 E E
+h_na2 S S
+h_na3 SE SE
+h_na4 S SW W N E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W N NE E SE S SW W NW N NE E SE E N SE N SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N E SE N SE
+
+h_nu1 S SE SE
+h_nu2 S SW NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N E SE E SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW NW N NE E SE S SW W NW N E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N NE E SE SE
+
+h_nu1 S SE SE
+h_nu2 S SW W NW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW NE E SE S SW W NW NE E SE N SE E SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S N SW N SW S
+h_ne2 NE S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW S SW NE E SE S SW W N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW W N E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE SW S SW S N NE E SE S SW W NW N E SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW W NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW W NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW NW N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW NW N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW N NE E SE S SW W N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S N SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S N SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S SE N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE E SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S N S
+h_ne2 NE E SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N SW N S NE E SE S SW W NW NE E SE N S SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N SW N S NE E SE S SW W NW NE E SE N S SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N SW N S NE E SE S SW W NW NE E SE N S SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N SW N S NE E SE S SW W NW NE E SE N S SE
+
+h_ne1 S S
+h_ne2 NE S SW S SW N S N S NW NE E SE S SW W NW E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE SW S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW NE E S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE SW N NE E SE S SW W NW N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S S
+h_ne2 W NE SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 W NE SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 W NE SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 W NE SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW S N NE E SE S SW W NW N NE E SE E
+
+h_ne1 S N SW S
+h_ne2 NW NE SE S SW S N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NW NE SE S SW S N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NW NE SE S SW S N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NW NE SE S SW S N NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S W S
+h_ne2 NE SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE S SW NE E SE S SW W NW NE E SE E
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW N E SE E
+
+h_ne1 S S
+h_ne2 NE E S SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE E S SW N NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S S
+h_ne2 NE S SW NE E SE S SW W N NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N SW N S S
+h_ne2 NE SW N NE E SE S SW W NW NE E SE E
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW W N NE E SE S SW NW W N NE E SE SE
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S E S
+h_ne2 NE SE S SW S SW N SW NE E SE S SW W NW NE E SE N S E
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S N S
+h_ne2 NE S SW S SW S NE E SE S SW W NW N NE E SE E SE
+
+h_ne1 S S
+h_ne2 NE E S SW S SW S NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE SW NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W N E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE S SW S NE E SE S SW W NW N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE SW S SW S SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 NW S SE S
+h_ne2 NE SW NE E SE S SW W N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW E SE SE
+
+h_ne1 S S
+h_ne2 NE SW NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW S NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW S NE E SE S SW W N NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW S NE E SE S SW W N NE E SE SE
+
+h_ne1 S S
+h_ne2 NE N S SW S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NE SE S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NE SE S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NE SE S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N SW S
+h_ne2 NE SE S SW NE E SE S SW W NW NE E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S N S SW S N S N SW N NE E SE S SW W NW NE E SE N SE N S N S N E
+
+h_ne1 S N S S
+h_ne2 NE S N S SW S N S N SW N NE E SE S SW W NW NE E SE N SE N S N S N E
+
+h_ne1 S N S S
+h_ne2 NE S N S SW S N S N SW N NE E SE S SW W NW NE E SE N SE N S N S N E
+
+h_ne1 S N S S
+h_ne2 NE S SW N S N NE E SE S SW W NW NE E SE N SE N SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N S N NE E SE S SW W NW NE E SE N SE N SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N S N NE E SE S SW W NW NE E SE N SE N SE
+
+h_ne1 S S
+h_ne2 NE S SW N S NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N NE E SE S SW W NW E SE SE
+
+h_ne1 S N S S
+h_ne2 NE S SW N NE E SE S SW W NW E SE SE
+
+h_ne1 S N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE E S N SE
+
+h_ne1 S N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE E S N SE
+
+h_ne1 S N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE E S N SE
+
+h_ne1 S N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE E S N SE
+
+h_ne1 S N S
+h_ne2 NE SW S NE E SE S SW W NW N E SE E S N SE
+
+h_ne1 S S
+h_ne2 NE SW S SW S SW N S NW NE E SE S SW W NW NE E SE SE
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 SW S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW W NW NE E S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW W NW NE E S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW W NW NE E S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW W NW NE E S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW NW N NE E S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW W NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N SE NE S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S N S N NE S
+h_ha2 E E
+h_ha3 S SW W NW N NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW W NW N NE E SE S
+
+h_ha1 S E NE S
+h_ha2 E E
+h_ha3 S SW W NW N NE E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S SE NE N S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_ha1 S N S
+h_ha2 E E
+h_ha3 S SW NW N NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S NE S
+h_ha2 E E
+h_ha3 S SW NW NE E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N NE S
+h_ha2 E E
+h_ha3 S SW NW N E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N S
+h_ha2 E E
+h_ha3 S SW W NW E SE S
+
+h_ha1 S N S N NE S
+h_ha2 E E
+h_ha3 S SW W NW N E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S S
+h_na4 S SW W NW E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 SW S SW SW
+h_na3 S S
+h_na4 S SW W NW N NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_na1 E E
+h_na2 S SW S
+h_na3 S SE S
+h_na4 S SW W NW NE E SE S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW SE
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_no1 S SW W NW N NE E SE S SW S
+
+h_hi1 E NE SW S SE E NE N SE E
+
+h_hi1 E NE SW S SE E NE N W NE S N SE E
+
+h_hi1 E NE SW S SE E NE N W NE S N SE E
+
+h_hi1 E NE SW S SE E NE N W NE S N SE E
+
+h_hi1 E SW S SE E NE N SE E
+
+h_hi1 E NE SW S SE E NE N SE E
+
+h_hi1 E NE SW S SE E NE N NW W SE E
+
+h_hi1 E NE W SW S SE E NE N SW SE E
+
+h_hi1 E W SW S SE E NE N SE E
+
+h_hi1 E NE SW S SE E NE N SE E
+
+h_hi1 E NE SW N SW S SE E NE N SE E
+
+h_hi1 E NE W SW S SE E NE N SE E
+
+h_hi1 E NE W SW S SE E NE N SE E
+
+h_hi1 E NE W SW S SE E NE N SE E
+
+h_hi1 E NE W SW S SE E NE N SE E
+
+h_hi1 E NE W SW S SE E NE N SE E
+
+h_hi1 E SW S SE E NE N SE E
+
+h_hi1 E SW S SE E NE N NW NE SE E
+
+h_hu1 E E
+h_hu2 S SW W NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE
+
+h_na1 E E
+h_na2 S SW SW
+h_na3 SE SE
+h_na4 S SW W NW NE E SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 SE SE
+h_hu2 S SW W S
+h_hu3 SW SW
+h_hu4 SE E SE
+
+h_hu1 SE E E
+h_hu2 S SW W NW S
+h_hu3 SW SW
+h_hu4 SE SE
+
+h_hu1 E E
+h_hu2 S SW W NW SW
+h_hu3 SW SW
+h_hu4 SE SE
+
+
+h_he1 NE E SE E SE N E
+
+h_he1 NE E SE E SE N E
+
+h_he1 NE E SE E SE N E
+
+h_he1 NE E SE E SE N E
+
+h_he1 NE E SE E SE N E
+
+h_he1 NE E SE E
+
+h_he1 NE E SE E
+
+h_he1 NE E SE E
+
+h_ho1 S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE S
+
+h_ho1 S N S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE E SE S
+
+h_ho1 S N S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE E SE S
+
+h_ho1 S N S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE E SE S
+
+h_ho1 S N S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE S
+
+h_ho1 S NE S
+h_ho2 E SE E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE E S
+
+h_ho1 S N S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW NE E SE S
+
+h_ho1 S N S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW NE E SE S
+
+h_ho1 S N SE N NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW NE E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W N NE E S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W N NE E S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W N NE E S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W N NE E S
+
+h_ho1 S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N E S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N E SE S
+
+h_ho1 S NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N E SE S
+
+h_ho1 S NE N S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E S
+
+h_ho1 S N SE NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW N NE E SE S
+
+h_ho1 S N SE NE S
+h_ho2 E E
+h_ho3 E E
+h_ho4 S SW W NW NE E SE S
+
+h_mi1 NE S SW W N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E S SW W NW NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SW W N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE SE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W NW N NE E SE SE
+h_mi2 S S
+
+
+
+h_mi1 NE S SW S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE E S SW W NW N NE E SE SE
+h_mi2 S S
+
+h_mi1 NE S SW W N NE E SE SE
+h_mi2 S S
+
+h_ma1 E E
+h_ma2 W E E
+h_ma3 S SW W NW NE E SE S
+
+h_ma1 E E
+h_ma2 W E E
+h_ma3 S SW W NW NE E SE S
+
+h_ma1 E E
+h_ma2 W E E
+h_ma3 S SW W NW NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W N NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW NE E SE S
+
+h_ma1 E E
+h_ma2 E E
+h_ma3 S SW W NW N NE E SE S
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SE E NE N SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S W NW N NE E SE S SW S SE E NE N SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE N SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S W NW N NE E S SW S SE E NE N NW SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S SW W NW N E SE S SW S SE E NE N SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S W NW NE E SE SW S SE E NE SE
+h_mu3 E E
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SE E SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S SE E NE NW SE
+h_mu3 SE SE
+
+h_mu1 E E
+h_mu2 S SW W NW N NE E SE S SW S E NE SE
+h_mu3 SE SE
+
+h_me1 SE SE
+h_me2 S SW W NW N NE E SE S SW SE
+
+h_me1 SE SE
+h_me2 S SW W N NE E SE S SW S
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E SE S SE
+
+h_me1 SE SE
+h_me2 S SW W NW N NE E SE S SW SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SW SE
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E SE S SE
+
+h_me1 SE SE
+h_me2 S SW W N NE E SE S SW S
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E NE E SE S SW SE
+
+h_me1 S SE E SE
+h_me2 S SW W NW N NE E SE S SW SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E SE S SW S
+
+h_me1 SE SE
+h_me2 S SW W NW N NE E SE S SW S
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E SE S SW S
+
+h_me1 S SE SE
+h_me2 S SW W NW N NE E SE S SE
+
+h_me1 S SE SE
+h_me2 S SW W N NE E SE S SW S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE SE
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE N SE
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SW S SE E NE S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE N S
+
+h_mo1 E E
+h_mo2 E E
+h_mo3 S SE E NE N S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N S N NE E SE S SW SE
+h_yu2 SE S SW S
+
+h_yu1 S N NE E SE S SW SE
+h_yu2 S S
+
+h_yu1 S N NE E SE S SW SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yu1 NW S N S N NE E SE S SW W SE
+h_yu2 SE S S
+
+h_yo1 E E
+h_yo2 S SW W NW N NE E SE S
+
+h_yo1 E E
+h_yo2 S SW W NW NE E SE S
+
+h_yo1 E E
+h_yo2 S SW W NW N NE E SE SE
+
+h_yo1 E E
+h_yo2 S SW W NW NE E SE
+
+h_yo1 E E
+h_yo2 S SW W NW N NE E SE SE
+
+h_yo1 E E
+h_yo2 S SW W NW N NE E SE
+
+h_yo1 E E
+h_yo2 S SW W NW NE E SE SE
+
+h_yo1 E E
+h_yo2 S SW W NW NE E SE SE
+
+h_ra1 E E
+h_ra2 S N S NE E SE S SW W SE
+
+h_ra1 E E
+h_ra2 S SW N S NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW E NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 S N SE NE E SE S SW W SE
+
+h_ra1 E E
+h_ra2 SW N S NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW NE E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW E SE S SW W S
+
+h_ra1 E E
+h_ra2 SW NE E SE S SW W S
+
+h_ri1 S E S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ri1 S S
+h_ri2 S SW S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE E SW E SE S SW W NW NE E SE S
+
+h_ru1 NE SW N S NE E SE S SW W NW NE E SE S
+
+h_ru1 NE SW N S NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE SW NE E SE S SW W NW NE E SE S
+
+h_ru1 NE SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE E SE SW N NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE S SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE SW E NE E SE S SW W NW N NE E SE SE
+
+h_ru1 NE SW E NE E SE S SW W NW N NE E SE SE
+
+h_ru1 NE SW E NE E SE S SW W NW N NE E SE SE
+
+h_ru1 NE SW W SW NE E SE S SW W NW NE E SE S
+
+h_ru1 E SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE E SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 E SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 NE E NE SW NE E SE S SW W NW N E SE S
+
+h_ru1 E SW N SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 E SE SW NE E SE S SW W NW N NE E SE S
+
+h_ru1 E SW N SW N SW N SW W NE E SE S SW W NW NE E SE S
+
+h_re1 S N S
+h_re2 NE S SW S NE E SE S E NE E
+
+h_re1 S S
+h_re2 NE SE N SW S SW NE SE S SE E NE SE
+
+h_re1 S S
+h_re2 NE SE S W NE SE S E NE SE
+
+h_re1 S S
+h_re2 NE S SW S SW S NE SE S SE E NE SE
+
+h_re1 S N S S
+h_re2 NE SE N S SW N SW N NE E SE S E NE SE
+
+h_re1 S N S S
+h_re2 NE S SW N S SW N NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S NE E SE S SE SE
+
+h_re1 S S
+h_re2 NE S SW S N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE E S N NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S N SW NE E SE S N SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE E SE S SE E SE
+
+h_re1 S N S S
+h_re2 NE S N S SW S N SW N NE E SE S SE SE
+
+h_re1 S N S
+h_re2 NE S SW N NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S N SW NE E SE S E SE
+
+h_re1 S N S
+h_re2 NE S SW S N SW NE E SE S E SE
+
+h_re1 S N S
+h_re2 NE S SW S N SW NE E SE S E SE
+
+h_re1 S N S
+h_re2 NE S SW S N SW NE E SE S E SE
+
+h_re1 S N S S
+h_re2 NE SW N S NE E SE S E SE
+
+h_re1 S N S S
+h_re2 NE S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SE SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SE SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SE SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SE SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S E E
+
+h_re1 S S
+h_re2 NE S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N S N NE E SE S E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE N S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S N S
+h_re2 NE S SW S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE SW N SW NE E S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S N S SW NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW S SW S N SW NE E SE S E SE
+
+h_re1 S S
+h_re2 NE S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW N SW NE N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_re1 S S
+h_re2 NE S SW S SW N S N SW N NE E SE S SE E SE
+
+h_ro1 NE SW NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E SW N SE NE E SE S SW W S
+
+h_ro1 NE E S SW NE E SE S SW W S
+
+h_ro1 NE E SW NE E SE S SW W S
+
+h_ro1 NE E SW NE E SE S SW W S
+
+h_ro1 NE SW NE E SE S SW W S
+
+h_ro1 NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E NE SW NE E SE S SW W S
+
+h_ro1 NE E SW N S NE E SE S SW W S
+
+h_ro1 NE E SW N S NE E SE S SW W S
+
+h_ro1 NE E SW N S NE E SE S SW W S
+
+h_ro1 E SW N SE NE E SE S SW W S
+
+h_ro1 E SW N SE NE E SE S SW W S
+
+h_ro1 NE E S N SW NE E SE S SW W S
+
+h_ro1 NE E S N SW NE E SE S SW W S
+
+h_ro1 NE E SE SW NE E SE S SW W S
+
+h_ro1 NE E SE SW NE E SE S SW W S
+
+h_ro1 NE E SE SW NE E SE S SW W S
+
+h_ro1 NE E SE SW NE E SE S SW W S
+
+h_ro1 NE E SE SW NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 NE SW N S NE E SE S SW W S
+
+h_ro1 SW E SW NE E SE S SW W S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_ro1 E SE SW NE E SE S SW W S
+
+h_ro1 E NE E SW NE E SE S SW W S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 NE E NE SW N SW NW NE E SE S SW W S
+
+h_ro1 E NE SW NE E SE S SW W SW S
+
+h_ro1 E NE SW NE E SE S SW W SW S
+
+h_ro1 E NE SW NE E SE S SW W SW S
+
+h_ro1 E NE SW NE E SE S SW W SW S
+
+h_ro1 E NE SW NE E SE S SW W SW S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E NE S N SW N S NE E SE S SW W S
+
+h_ro1 E SW N S NE E SE S SW W S N SW S
+
+h_ro1 E SW N S NE E SE S SW W S N SW S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_ro1 E SW NE E SE S SW W S
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S S
+h_wa2 NE E S N SW NE E SE S SW W SW W SW N S SE
+
+h_wa1 S N S
+h_wa2 NE S SW NE E SE S SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SE SW NE E SE S SW W N SW SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S N S
+h_wa2 NE SW NE E SE S SW W SE
+
+h_wa1 S S
+h_wa2 NE SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE E SW NE E SE S SW SE
+
+h_wa1 S S
+h_wa2 NE S SW NE E SE S SW SE
+
+h_wo1 E E
+h_wo2 S SW S SW S N SW NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S SW S SW NE E SE S S
+h_wo3 W SW S SE E NE S
+
+h_wo1 E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 E E
+h_wo2 S NE E SE S SE
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wo1 W E E
+h_wo2 S NE E SE S S
+h_wo3 W SW S SE E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW N NE E SE S E S
+
+h_wu1 SW W S NE E SE S SE E S
+
+h_wu1 SW W S NE E SE S SE E S
+
+h_wu1 SW W S NE E SE S SE E S
+
+h_wu1 SW W S NE E SE S SE E S
+
+h_wu1 SW W S NE E SE S SE E S
+
+h_wu1 SW N NE E SE S SE E NE S
+
+h_wu1 SW N NE E SE S SE E NE S
+
+h_wu1 SW N NE E SE S SE E NE S
+
+h_wu1 SW N NE E SE S SE E NE S
+
+h_wu1 SW NE E SE S SE E S
+
+h_wu1 SW NE E SE S SE E S
+
+h_wu1 SW NE E SE S SE E S
+
+h_wu1 SW NE E SE S SE E S
+k_a1 E E
+k_a2 S S
+k_a1 E SW SE
+k_a2 S SW S
+
+k_a1 E SW E
+k_a2 S SW S
+
+k_i1 SW W SW
+k_i2 S N S
+
+k_i1 SW SW
+k_i2 S S
+
+k_i1 SW SW
+k_i2 S S
+
+k_i1 SW SW
+k_i2 S S
+
+k_i1 SW SW
+k_i2 S S
+
+k_u1 S S
+k_u2 S S
+k_u3 E S SW SE
+
+k_u1 S S
+k_u2 S S
+k_u3 E SE S SW SE
+
+k_u1 S S
+k_u2 S S
+k_u3 E SE S SW SE
+
+k_u1 S S
+k_u2 S S
+k_u3 E SE S SW SE
+
+k_u1 S S
+k_u2 S S
+k_u3 E S SW SE
+
+k_e1 E E
+k_e2 S N S N S S
+k_e3 E E
+
+k_e1 E E
+k_e2 S N S N S S
+k_e3 E E
+
+k_e1 E E
+k_e2 S N S
+k_e3 E E
+
+k_e1 E E
+k_e2 S S
+k_e3 E E
+
+k_e1 E E
+k_e2 S S
+k_e3 E E
+
+k_e1 E E
+k_e2 S S
+k_e3 E E
+
+k_e1 E E
+k_e2 S N SW N SW N S E S
+k_e3 E E
+
+k_o1 E E
+k_o2 S N S N S NW S
+k_o3 SW SW
+
+k_o1 E E
+k_o2 S N S N S NW S
+k_o3 S SW SW
+
+k_o1 E E
+k_o2 S N S N S NW S
+k_o3 S SW SW
+
+k_o1 E E
+k_o2 S N S NW S
+k_o3 SW SW
+
+k_o1 E E
+k_o2 S N S N SW NW S
+k_o3 SW SW
+
+k_o1 E E
+k_o2 S N S N SW NW S
+k_o3 SW SW
+
+k_o1 E E
+k_o2 S N S N SW NW S
+k_o3 SW SW
+
+k_o1 E E
+k_o2 S NW S
+k_o3 S SW SW
+
+k_o1 E E
+k_o2 S N S NW S
+k_o3 S SW SW
+
+k_o1 E E
+k_o2 S N S NW S
+k_o3 S SW SW
+
+k_o1 E E
+k_o2 S N S NW S
+k_o3 S SW SW
+
+k_ka1 E S N S W SW NW SE
+k_ka2 S N SW N SW S
+
+k_ka1 E S N S W SW NW SE
+k_ka2 S N SW N SW S
+
+k_ka1 E S N S W SW NW SE
+k_ka2 S N SW N SW S
+
+k_ka1 E S N S W SW NW SE
+k_ka2 S N SW N SW S
+
+k_ka1 E S N S W SW NW SE
+k_ka2 S N SW N SW S
+
+k_ka1 E S SW NW SE
+k_ka2 S SW S SW N SW S
+
+k_ka1 E S W S W NW SE
+k_ka2 S SW N S
+
+k_ka1 E S SW N SW NW SE
+k_ka2 S N SW N S
+
+k_ka1 E S SW N SE
+k_ka2 S SW W SW N S
+
+k_ka1 E S N S SE
+k_ka2 SW S SW SW
+
+k_ka1 E S SW N SW NW SE
+k_ka2 SW S SW S SW
+
+k_ka1 E S SW N SW NW SE
+k_ka2 SW S SW S SW
+
+k_ka1 E S SW N SW NW SE
+k_ka2 SW S SW S SW
+
+k_ka1 E SE S SW NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S W S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S W S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S W S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S W S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S W S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S SW S N S N S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S SW S N S N S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S SW S N S N S NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E S SW W S N SW NW SE
+k_ka2 S S
+
+k_ka1 E S SW W S N SW NW SE
+k_ka2 S S
+
+k_ka1 NW E SE S N SW NW SE
+k_ka2 SW S SW SW
+
+k_ka1 NW E SE S N SW NW SE
+k_ka2 SW S SW SW
+
+k_ka1 E SE S W SW NW SE
+k_ka2 S S
+
+k_ka1 E S SW S NW SE
+k_ka2 S SW S S
+
+k_ka1 E S SW NW SE
+k_ka2 S N S
+
+k_ka1 E S SW NW SE
+k_ka2 S N S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S NW SE
+k_ka2 SW S S
+
+k_ka1 E S SW NW SE
+k_ka2 S SW N SW SW
+
+k_ka1 E S SW NW SE
+k_ka2 S SW N SW SW
+
+k_ka1 E S SW NW SE
+k_ka2 S SW N SW SW
+
+k_ka1 E S SW NW SE
+k_ka2 S SW N SW SW
+
+k_ka1 E S N S NW SE
+k_ka2 S S
+
+k_ka1 E SE S SW SE
+k_ka2 SW S SW S SW SW
+
+k_ka1 E SE S SW SE
+k_ka2 SW S SW S SW SW
+
+k_ka1 E S SW S NW SE
+k_ka2 S SW S SW S
+
+k_ka1 E S SW S NW SE
+k_ka2 S SW S SW S
+
+k_ka1 E S SW S NW SE
+k_ka2 S SW S SW S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E S SW N S NW SE
+k_ka2 S S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E SE S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S N SW NW SE
+k_ka2 S SW S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E S SW N SW SE
+k_ka2 S S
+
+k_ka1 E SE S N SW N S N S N S W SE
+k_ka2 S S
+
+k_ka1 E SE S N SW N S N S N S W SE
+k_ka2 S S
+
+k_ka1 E SE S N SW N S N S N S W SE
+k_ka2 S S
+
+k_ka1 E SE S N SW N S N S N S W SE
+k_ka2 S S
+
+k_ka1 E S W S SE
+k_ka2 S S
+
+k_ka1 E S W S SE
+k_ka2 S S
+
+k_ka1 E S W S SE
+k_ka2 S S
+
+k_ka1 E S SW N S SE
+k_ka2 S S
+
+k_ki1 NE NE
+k_ki2 NE NE
+k_ki3 SE SE
+
+k_ki1 NE NE
+k_ki2 NE NE
+k_ki3 SE SE
+
+k_ku1 S SW SW
+k_ku2 E S SW S
+
+k_ku1 S SW SW
+k_ku2 E S SW S
+
+k_ku1 S SW SW
+k_ku2 E S SW S
+
+k_ku1 S SW SW
+k_ku2 E SE S SW S SW S
+
+k_ku1 S SW S
+k_ku2 E SW S SW S
+
+k_ku1 S SW S
+k_ku2 E SW S SW S
+
+k_ku1 S SW S
+k_ku2 E SE S SW S
+
+k_ke1 S SW S
+k_ke2 E E
+k_ke3 S SW S
+
+k_ke1 S SW S
+k_ke2 E E
+k_ke3 S SW S
+
+k_ke1 S SW S
+k_ke2 E E
+k_ke3 S SW S
+
+k_ko1 E S SE W E SW SE
+k_ko2 E E
+
+k_ko1 E S SE W E SW SE
+k_ko2 E E
+
+k_ko1 E S SE W E SW SE
+k_ko2 E E
+
+k_ko1 E S SE W E SW SE
+k_ko2 E E
+
+k_ko1 E S SE
+k_ko2 E E
+
+k_ko1 E SE S SE
+k_ko2 E E
+
+k_ko1 E SE S SE
+k_ko2 E E
+
+k_ko1 E SE S SE
+k_ko2 E E
+
+k_ko1 E SE S SE
+k_ko2 E E
+
+k_sa1 E E
+k_sa2 S S
+k_sa3 S SW S
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 SE E NE NE
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 SE E NE NE
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 SE E NE NE
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 E NE NE
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 E NE NE
+
+k_si1 SE SE
+k_si2 SE SE
+k_si3 E NE NE
+
+k_su1 E SW S
+k_su2 SE SE
+
+k_se1 NE E NE E NE E SW E
+k_se2 S SE E SE
+
+k_se1 NE E NE E NE E SW E
+k_se2 S SE E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E SW E
+k_se2 S E SE
+
+k_se1 NE E NE SW E
+k_se2 S SE E SE
+
+k_se1 NE E NE SW E
+k_se2 S SE E SE
+
+k_se1 NE E NE SW E
+k_se2 S SE E SE
+
+k_se1 NE E NE E NE S SW E
+k_se2 S SE E SE
+
+k_se1 NE E NE E NE S SW E
+k_se2 S SE E SE
+
+k_se1 NE E SE SW E
+k_se2 S SE E SE
+
+k_se1 E NE E NE E NE S N SW E
+k_se2 S SE E SE
+
+k_se1 E NE E NE SW E
+k_se2 S SE E SE
+
+k_se1 E NE E NE SW E
+k_se2 S SE E SE
+
+k_se1 E SW E
+k_se2 S SE E SE
+
+k_se1 E NE E SW E
+k_se2 S SE E SE
+
+k_so1 S S
+k_so2 S SW SW
+
+k_so1 S SE S
+k_so2 S SW S
+
+k_ta1 S SW S
+k_ta2 E SE S SW S
+k_ta3 E SE E E
+
+k_ta1 S SW S
+k_ta2 E S SW S SW S
+k_ta3 E E
+
+k_ta1 S SW S
+k_ta2 E SE SW S SW S
+k_ta3 E E
+
+k_ta1 S SW S
+k_ta2 E SW S SW S
+k_ta3 E E
+
+k_ta1 S SW SW
+k_ta2 E S SW S
+k_ta3 E E
+
+k_ta1 S SW S
+k_ta2 E SE S SW S SW S
+k_ta3 E E
+
+k_ti1 SW W SW
+k_ti2 E E
+k_ti3 S S
+
+k_ti1 SW W SW
+k_ti2 E E
+k_ti3 S SW S
+
+k_ti1 SW SW
+k_ti2 E E
+k_ti3 S S
+
+k_tu1 S S
+k_tu2 S S
+k_tu3 S SW SW
+
+k_tu1 S S
+k_tu2 S SE S
+k_tu3 S SW SW
+
+k_tu1 S SE S
+k_tu2 S SE S
+k_tu3 S SW SW
+
+k_te1 E E
+k_te2 E E
+k_te3 S SE S
+
+k_te1 E E
+k_te2 E E
+k_te3 S SE SE
+
+k_to1 S S
+k_to2 SE SE
+
+k_na1 E E
+k_na2 S SW S
+
+k_ni1 E E
+k_ni2 E E
+
+k_ni1 E E
+k_ni2 E E
+
+k_nu1 E SE SW S
+k_nu2 SE SE
+
+k_nu1 E SW S
+k_nu2 SE SE
+
+k_ne1 S S
+k_ne2 E S SW S
+k_ne3 S S
+k_ne4 SE SE
+
+k_ne1 S S
+k_ne2 E SW S
+k_ne3 S S
+k_ne4 SE SE
+
+k_no1 SW SW
+
+k_no1 S SW SW
+
+k_ha1 NE NE
+k_ha2 SE SE
+
+k_ha1 NE NE
+k_ha2 SE SE
+
+k_ha1 NE NE
+k_ha2 SE SE
+
+k_hi1 E E
+k_hi2 S SE E SE
+
+k_hu1 E S SW S
+
+k_hu1 E S SW S
+
+k_hu1 E SE SW S
+
+k_hu1 E SE SW S
+
+k_hu1 E SW S
+
+k_he1 NE S N SE SE
+
+k_he1 NE S N SE SE
+
+k_he1 NE SE N SE E S E S N E
+
+k_he1 NE SE E
+
+k_he1 NE N SE E
+
+k_he1 NE SE E
+
+k_he1 NE E SE E
+
+k_ho1 E E
+k_ho2 S NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S N S NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S N NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S N S S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S W S NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S N SW NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S W NW S
+k_ho3 SW SW
+k_ho4 S SE SE
+
+k_ho1 E E
+k_ho2 S N W NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ho1 E E
+k_ho2 S N W NW S
+k_ho3 SW SW
+k_ho4 SE SE
+
+k_ma1 E SW SE
+k_ma2 SE SE
+
+k_ma1 E SE SW SE
+k_ma2 SE SE
+
+k_ma1 E SE SW SE
+k_ma2 SE SE
+
+k_mi1 SE SE
+k_mi2 SE SE
+k_mi3 SE SE
+
+k_me1 SW S N E NE E S
+k_me2 SE SE
+
+k_me1 SW E NE E S
+k_me2 SE SE
+
+k_me1 SW N E NE S
+k_me2 SE SE
+
+k_me1 S SW SW
+k_me2 SE SE
+
+k_me1 S SW S SW SW
+k_me2 SE SE
+
+k_mo1 E E
+k_mo2 E E
+k_mo3 S SE E SE
+
+k_mo1 E E
+k_mo2 E E
+k_mo3 S SE E S
+
+k_mo1 E E
+k_mo2 E E
+k_mo3 S SE E S
+
+k_mo1 E E
+k_mo2 E E
+k_mo3 S E SE
+
+k_ya1 NE SE S SW E
+k_ya2 SE SE
+
+k_ya1 NE S N S SW E
+k_ya2 SE SE
+
+k_ya1 NE SE N S SW E
+k_ya2 SE SE
+
+k_ya1 NE S SW S NE
+k_ya2 SE SE
+
+k_ya1 NE SW S E
+k_ya2 SE SE
+
+k_ya1 NE SE SW NE
+k_ya2 SE SE
+
+k_ya1 NE S SW NE
+k_ya2 SE SE
+
+k_ya1 NE SW E
+k_ya2 SE SE
+
+k_ya1 NE SW NE
+k_ya2 SE SE
+
+k_ya1 NE S SW E
+k_ya2 SE SE
+
+k_ya1 NE S NE
+k_ya2 SE SE
+
+k_ya1 NE SE N SW E
+k_ya2 SE SE
+
+k_ya1 NE S NE
+k_ya2 S SE S S
+
+k_ya1 NE S NE
+k_ya2 S SE S S
+
+k_yu1 E SE S SE
+k_yu2 E E
+
+k_yu1 E S SE
+k_yu2 E E
+
+k_yu1 E SW S SE
+k_yu2 E E
+
+k_yu1 E SE S SW SE N SE
+k_yu2 E E
+
+k_yo1 E S SE
+k_yo2 E E
+k_yo3 E E
+
+k_yo1 E SE S SE
+k_yo2 E E
+k_yo3 E E
+
+k_yo1 E SE S SE
+k_yo2 E E
+k_yo3 E E
+
+k_yo1 E S SE
+k_yo2 E E
+k_yo3 E E
+
+k_ra1 E E
+k_ra2 E S SW SE
+
+k_ra1 E E
+k_ra2 E SW S
+
+k_ra1 E E
+k_ra2 E SE SW S
+
+k_ra1 E E
+k_ra2 E SW SE
+
+k_ra1 E E
+k_ra2 E S SW S
+
+k_ri1 S S
+k_ri2 S S
+
+k_ri1 S S
+k_ri2 S SW S
+
+k_ru1 S SW S
+k_ru2 S N SE NE SE
+
+k_ru1 S SW S
+k_ru2 S N SE NE SE
+
+k_ru1 S SW S
+k_ru2 S E NE SE
+
+k_ru1 S SW SW
+k_ru2 S NE SE
+
+k_ru1 S SW S
+k_ru2 S NE SE
+
+k_ru1 S SW S
+k_ru2 S NE S
+
+k_ru1 S SW S
+k_ru2 S NE S
+
+k_ru1 S SW S
+k_ru2 S NE S
+
+k_ru1 S SW S
+k_ru2 S NE S
+
+k_ru1 S SW S
+k_ru2 S NE SE
+
+k_ru1 S SW S
+k_ru2 S E NE SE
+
+k_ru1 S SW S
+k_ru2 S N SE NE S
+
+k_ru1 S SW S
+k_ru2 S N S E NE S
+
+k_re1 S NE SE
+
+k_re1 S N S N SW N S N SE N S NE SE
+
+k_re1 S N S NE SE
+
+k_re1 S N S NE SE
+
+k_re1 S N S N SE NE SE
+
+k_re1 S SE NE SE
+
+k_re1 S N SE NE SE
+
+k_re1 S NE S
+
+k_ro1 S N S
+k_ro2 E S SE
+k_ro3 E E
+
+k_ro1 S S
+k_ro2 E S SE
+k_ro3 E E
+
+k_ro1 S S
+k_ro2 E SE S SE
+k_ro3 E E
+
+k_wa1 S S
+k_wa2 E SE S SW SE
+
+k_wa1 S S
+k_wa2 E S SW SE
+
+k_wa1 S S
+k_wa2 E S SW S
+
+k_wa1 S S
+k_wa2 E SE S SW S
+
+k_wa1 S S
+k_wa2 E SE SW S
+
+k_wa1 S S
+k_wa2 E SE SW S SW S
+
+k_wa1 S S
+k_wa2 E S SW S
+
+k_wa1 S S
+k_wa2 E SE S SW S SW SE
+
+k_wu1 SE SE
+k_wu2 E NE NE
+
+k_wu1 SE SE
+k_wu2 NE NE
+
+k_wu1 SE SE
+k_wu2 NE NE
+
+k_wu1 SE SE
+k_wu2 E NE NE
+
+k_wu1 SE SE
+k_wu2 E NE NE
+
+k_wo1 E E
+k_wo2 E E
+k_wo3 S SW S
+
+k_wo1 E E
+k_wo2 E E
+k_wo3 S SW SW
+
+k_wo1 E E
+k_wo2 E E
+k_wo3 S SW SW
+
+k_sa1 SE SE
+k_sa2 SE SE
+k_sa3 NE NE
+
+k_sa1 SE SE
+k_sa2 SE SE
+k_sa3 NE NE
+
+k_sa1 SE SE
+k_sa2 SE SE
+k_sa3 E NE NE
+
+k_sa1 SE SE
+k_sa2 E E
+k_sa3 E NE NE
+

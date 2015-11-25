@@ -1,0 +1,59 @@
+﻿たべます/tabemasu/ăn
+のみます/nomimasu/uống
+すいます/suimasu/hút
+たばこをすいます/tabako wo suimasu/hút thuốc lá
+かきます/kakimasu/viết,vẽ
+よみます/yomimasu/đọc
+ききます/kikimasu/nghe
+みます/mimasu/xem,nhìn
+かいます/kaimasu/mua
+とります/torimasu/chụp
+しゃしんをとります/shashin wo torimasu/chụp ảnh
+じっしゅうします/jisshuushimasu/thực tập
+します/shimasu/chơi,đánh ( làm việc)
+ピンポンをします/pinpon wo shimasu/đánh bóng bàn
+あいます/aimasu/gặp
+ともだちにあいます/tomodachi ni aimasu/gặp bạn
+ごはん/gohan/bữa ăn
+あさごはん/asagohan/bữa sáng
+ひるごはん/hirugohan/bữa trưa
+ばんごはん/bangohan/bữa tối
+パン/pan/bánh mì
+たまご/tamago/trứng
+にく/niku/thịt
+さかな/sakana/cá
+やさい/yasai/rau
+りんご/ringo/táo tây
+ライス/raisu/cơm
+ぎゅうにゅう/gyunyu/sữa bò
+ミルク/miruku/sữa
+おちゃ/ocha/chè xanh.nước chè
+コーヒー/ko-hi-/cà phê
+こうちゃ/koucha/trà đen
+ジュース/ju-su/nước hoa quả,nước ngọt
+くだもの/kudamono/hoa quả
+ウイスキ/wisuki/whisky
+ビール/bi-ru/bia
+おさけ/osake/rượu sake
+みず/mizu/nước
+ネクタイ/nekutai/ca ra vát
+シャツ/shattsu/áo sơ mi
+くつ/kutsu/giày
+テープ/te-pu/băng
+カセットテープ/kasetto-pu/băng cát sét
+フィルム/fiirumu/phim (cuộn)
+しゃしん/shashin/ảnh
+えいが/eiga/phim,chiếu bóng
+ピンポン/pinpon/bóng bàn
+テニス/tenisu/tennis
+サッカー/sakka/bóng đá
+なに/nani/gì
+いっしょに/isshoni/cùng với
+それから/sorekara/sau đó
+～と～/to/~ và ~
+もしもし/moshimoshi/a lô
+あしたひまですか/ashita hima desuka/mai a có rảnh không ?
+ええ/ee/dạ, vâng
+いいですね/iidesune/hay nhỉ, được đấy nhỉ
+わかりました/wakarimashita/hiểu rồi, nhất trí
+またあした/mata ashita/mai gặp lại , mai nhé

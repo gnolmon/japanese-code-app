@@ -1,0 +1,119 @@
+package com.example.japaneseapp;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ListView;
+
+import com.lc.adapter.ListWordAdapter;
+import com.lc.listword.NewWord;
+
+public class NewWordActivity extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_new_word);
+
+		if (savedInstanceState == null) {
+			getFragmentManager().beginTransaction()
+					.add(R.id.container, new PlaceholderFragment()).commit();
+		}
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.new_word, menu);
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle action bar item clicks here. The action bar will
+		// automatically handle clicks on the Home/Up button, so long
+		// as you specify a parent activity in AndroidManifest.xml.
+		int id = item.getItemId();
+		if (id == R.id.action_settings) {
+			return true;
+		}
+		return super.onOptionsItemSelected(item);
+	}
+
+	/**
+	 * A placeholder fragment containing a simple view.
+	 */
+	public static class PlaceholderFragment extends Fragment {
+
+		private ListWordAdapter listWordAdapter;
+		private ListView listView;
+		ArrayList<NewWord> listWord;
+		private Button btnCardMethod;
+		public PlaceholderFragment() {
+		}
+
+		@Override
+		public View onCreateView(LayoutInflater inflater, ViewGroup container,
+				Bundle savedInstanceState) {
+			View rootView = inflater.inflate(R.layout.fragment_new_word,
+					container, false);
+			listWord = new ArrayList<NewWord>();
+			readData();
+			listWordAdapter = new ListWordAdapter(getActivity(),R.layout.item_newword,listWord);
+			listView = (ListView) rootView.findViewById(R.id.listWord);
+			listView.setAdapter(listWordAdapter);
+			btnCardMethod = (Button) rootView.findViewById(R.id.btnCardMethod);
+			btnCardMethod.setOnClickListener(new OnClickListener() {
+				
+				@Override
+				public void onClick(View v) {
+					Intent intent = new Intent(getActivity(), FlashCardNewWordActivity.class);
+					startActivity(intent);
+				}
+			});
+			
+			return rootView;
+		}
+		
+		public void readData(){
+			String fname;
+			InputStream in = getActivity().getResources().openRawResource(R.raw.unit1);
+			InputStreamReader inReader = new InputStreamReader(in);
+			BufferedReader bufferedReader = new BufferedReader(inReader);
+			String word, jpWord, vnWord;
+			StringTokenizer stringTokenizer;
+			while(true){
+				try {
+					word = bufferedReader.readLine();
+					if (word == null ) break;
+					stringTokenizer = new StringTokenizer(word, "/");
+					jpWord = stringTokenizer.nextToken();
+					vnWord = stringTokenizer.nextToken();
+					NewWord newWord = new NewWord(jpWord, vnWord);
+					listWord.add(newWord);
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+	}
+
+	
+}

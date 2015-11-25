@@ -1,0 +1,25 @@
+﻿あそびます/asobimasu/chơi,đi chơi
+にもつをおくります/nimotsu wo okurimasu/gửi hàng(bưu kiện)
+けっこんします/kekkonshimasu/kết hôn, lấy vợ lấy chồng, lập gia đình
+かいものします/kaimonoshimasu/mua sắm
+こうえんをさんぽします/kouen wo sanposhimasu/đi dạo trong công viên
+まちをけんぶつします/machi wo kenbutsushimasu/thăm quan, xem phố
+こうじょうをけんかくします/koujou wo kenkakushimasu/tham quan, kiến tập nhà máy
+へやにはいります/heya ni hairimasu/vào phòng
+へやをでます/heya wo demasu/rời phòng
+ほしい/hoshii/muốn
+ビデオ/bideo/video
+ラジカセ/rajikase/máy raddio cát xét
+ステレオ/sutereo/giàn máy nghe nhạc
+くるま/kuruma/xe ôtô
+おみやげ/omiyage/quà
+いつも/itsumo/luôn luôn
+ときどき/tokidoki/thỉnh thoảng
+どこか/dokoka/nơi nào đó
+なにか/nanika/cái gì đó
+いいてんきですね/iitenkidesune/trời đẹp quá nhỉ
+そうですね/soudesune/ừ nhỉ (đồng ý vs ý kiến người #)
+おなかがすきました/onaka ga sukimashita/tôi đói rồi
+おなかがいっぱいです/onaka ga ippaidesu/tôi no rồi
+のどがかわきました/nodo ga kawakimashita/tôi khát nước
+そうしましょ/soushimasho/ừ, làm thế đi

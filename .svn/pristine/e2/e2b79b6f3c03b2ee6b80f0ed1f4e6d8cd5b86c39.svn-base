@@ -1,0 +1,75 @@
+package com.example.japaneseapp;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.widget.RemoteViews;
+import android.widget.TextView;
+
+import com.example.japaneseapp.R;
+import com.example.japaneseapp.R.id;
+import com.example.japaneseapp.R.layout;
+import com.lc.listword.NewWord;
+
+public class WidgetWordJapIntentReceiver extends BroadcastReceiver {
+
+	private ArrayList<NewWord> listWord;
+	private static int count = 0;
+	@Override
+	public void onReceive(Context context, Intent intent) {
+		if (intent.getAction().equals("jap.newword.intent.action.CHANGE_WORD")) {
+			updateWidgetNewWord(context,count);
+		}
+	}
+
+	private void updateWidgetNewWord(Context context, int count) {
+		RemoteViews remoteViews = new RemoteViews(context.getPackageName(),
+				R.layout.jap_widget_layout);
+		listWord = new ArrayList<NewWord>();
+		readData(context);
+		int i = getPosition();
+		remoteViews.setTextViewText(R.id.tvWidgetJp, listWord.get(i).getJpWord());
+		remoteViews.setTextViewText(R.id.tvWidgetVn, listWord.get(i).getVnWord());
+		remoteViews.setTextViewText(R.id.btnWidgetChange, "Change");
+		remoteViews.setOnClickPendingIntent(R.id.btnWidgetChange,
+				WidgetWordJapProvider.buildButtonPendingIntent(context));
+
+		WidgetWordJapProvider.pushWidgetUpdate(context.getApplicationContext(),
+				remoteViews);
+		count++;
+	}
+
+	private int getPosition() {
+		count++;
+		return count;
+	}
+	public void readData(Context context) {
+		InputStream in = context.getResources().openRawResource(R.raw.unit1);
+		InputStreamReader inReader = new InputStreamReader(in);
+		BufferedReader bufferedReader = new BufferedReader(inReader);
+		String word, jpWord, vnWord;
+		StringTokenizer stringTokenizer;
+		while (true) {
+			try {
+				word = bufferedReader.readLine();
+				if (word == null)
+					break;
+				stringTokenizer = new StringTokenizer(word, "/");
+				jpWord = stringTokenizer.nextToken();
+				vnWord = stringTokenizer.nextToken();
+				NewWord newWord = new NewWord(jpWord, vnWord);
+				listWord.add(newWord);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+}

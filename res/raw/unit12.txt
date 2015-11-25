@@ -1,0 +1,33 @@
+﻿ひま/hima/rảnh, rỗi
+いそがしい/isogashii/bận
+ちかい/chikai/gần
+とおい/tooi/xa
+はやい/hayai/nhanh, sớm
+おそい/osoi/chậm muộn
+ひとがおおい/hito ga ooi/nhiều, đông người
+ひとがさくない/hito ga sakunai/ít, vắng người
+あたたかい/atatakai/ấm
+すずしい/suzushii/mát
+あまい/amai/ngọt
+からい/karai/cay
+たのしい/tanoshii/vui
+わかい/wakai/trẻ
+コーヒーがいい/ko-hi-gaii/thích cafe
+てんき/tenki/thời tiết, đẹp trời
+あめ/ame/mưa
+ゆき/yuki/tuyết
+くもり/kumori/có mây
+やすみ/yasumi/nghỉ, vắng mặt
+りょこう/ryokou/du lịch
+パーティー/pa-ti-/tiệc, liên hoan
+みせ/mise/cửa hàng, tiệm
+クラス/kurasu/lớp học
+どちら/dochira/cái nào, đằng nào, loại nào, thứ nào(khi chọn 1 trong 2)
+どちらも/dochiramo/cái nào/ đằng nào/ loại nào/thứ nào cũng(cả hai)
+いちばん/ichiban/hơn hêt, hơn cả, nhất
+とても/totemo/rất
+ずっと/zutto/hơn nhiều, hơn hẳn
+でも/demo/nhưng
+ただいま/tadaima/tôi đã về đây
+おかえりなさい/okaerinasai/kìa, a đã về đấy à
+つかれました/tsukaremashita/tôi mệt rồi

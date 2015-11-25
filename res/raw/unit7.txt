@@ -1,0 +1,46 @@
+﻿きります/kirimasu/cắt
+しゅうりします/shuurimasu/sửa,chữa
+かけます/kakemasu/gọi
+でんわをかけます/denwa wo kakemasu/gọi điện thoại
+あげます/agemasu/cho,biếu
+もらいます/moraimasu/nhận
+おしえます/oshiemasu/dạy
+ならいます/naraimasu/học (với sensei...)
+かします/kashimasu/cho mượn, cho vay
+かります/karimasu/mượn ,vay
+はし/hashi/đũa
+ナイフ/naifu/dao
+フォーク/fo-ku/dĩa,nĩa
+スプーン/supu-n/thìa,muỗng
+はさみ/hasami/kéo
+ドライバー/doraiba-/tua vít
+スパナ/supana/mỏ lết
+ペンチ/penchi/kìm
+おかね/okane/tiền
+プレゼント/puru/quà
+レポート/repo-to/bản báo cáo
+かぞく/kazoku/gia đình
+おとうさん/otousan/bố
+ちち/chichi/mẹ
+おかあさん/okaasan/mẹ
+おにいさん/oniisan/anh
+おねえさん/oneesan/chị
+はは/haha/bố
+あね/ane/chị
+あに/ani/anh
+おとうと/otouto/em trai
+いもうと/imotouto/em gái
+おくさん/okusan/vợ (của ng #)
+かない/kanai/vợ (của mình)
+しゅじん/shujin/chồng (của mình)
+ごしゅじん/goshujin/chồng (người #)
+こども/kodomo/con
+えいご/eigo/tiếng Anh
+～ご/~go/tiếng ~
+もう/mou/rồi
+まだ/mada/chưa
+これから/korekara/từ nay trở đi, từ bây h,sau này
+おめでとう ございます/omedetou gozaimasu/chúc mừng (sinh nhật..)
+わあ/waa/Ủa
+どういたしまして/douitashimashite/không có gì, không dám
+いい～ですね/ii~desune/~ tốt quá nhỉ (khen)

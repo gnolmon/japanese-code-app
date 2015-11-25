@@ -1,0 +1,56 @@
+package com.lc.adapter;
+
+import java.util.StringTokenizer;
+
+import com.example.japaneseapp.R;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.res.Resources;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.TextView;
+
+public class ListUnitAdapter extends ArrayAdapter<String> {
+	private Activity context = null;
+	private int layoutId;
+
+	public ListUnitAdapter(Activity context, int layoutId) {
+		super(context, layoutId);
+		this.context = context;
+		this.layoutId = layoutId;
+	}
+
+	@Override
+	public View getView(int position, View convertView, ViewGroup parent) {
+		View listView;
+		if (convertView == null) {
+			LayoutInflater inflater = context.getLayoutInflater();
+			listView = inflater.inflate(R.layout.item_unit_layout, null);
+		} else {
+			listView = convertView;
+		}
+		TextView tvNameOfUnit = (TextView) listView.findViewById(R.id.nameOfUnit);
+		String pathName = context.getResources().getResourceName(NameUnit[position]);
+		StringTokenizer stringTokenizer;
+		String path, name;
+			stringTokenizer = new StringTokenizer(pathName, "/");
+			path = stringTokenizer.nextToken();
+			name = stringTokenizer.nextToken();
+			tvNameOfUnit.setText(name);
+		tvNameOfUnit.setText(name);
+		return listView;
+	}
+	
+	@Override
+	public int getCount() {
+		return NameUnit.length;
+	}
+	public int NameUnit[] = {R.raw.unit1, R.raw.unit2,R.raw.unit3,R.raw.unit4,R.raw.unit5,
+			R.raw.unit6, R.raw.unit7,R.raw.unit8,R.raw.unit9,R.raw.unit10,
+			R.raw.unit11, R.raw.unit12,R.raw.unit13,R.raw.unit14,R.raw.unit15,
+			R.raw.unit16, R.raw.unit17,R.raw.unit18,R.raw.unit19};
+	
+}

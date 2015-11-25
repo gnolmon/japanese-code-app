@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    tools:context="com.example.japaneseapp.SlidingPaneUnitActivity$PlaceholderFragment" >
+
+    <LinearLayout
+        android:id="@+id/spacetitleunit"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#990033"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unit"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/clickToFlashCard"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/spacetitleunit"
+        android:background="#333333"
+        android:gravity="center" >
+
+
+        <TextView
+            android:id="@+id/btnTestNewWord1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:text="Bài học 1"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listUnit"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/clickToFlashCard" >
+    </ListView>
+
+</RelativeLayout>

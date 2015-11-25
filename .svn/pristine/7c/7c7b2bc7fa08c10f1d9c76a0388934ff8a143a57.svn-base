@@ -1,0 +1,35 @@
+package com.example.japaneseapp;
+
+import android.app.PendingIntent;
+import android.appwidget.AppWidgetManager;
+import android.appwidget.AppWidgetProvider;
+import android.content.ComponentName;
+import android.content.Context;
+import android.content.Intent;
+import android.widget.RemoteViews;
+
+import com.example.japaneseapp.R;
+import com.example.japaneseapp.R.id;
+import com.example.japaneseapp.R.layout;
+
+public class WidgetWordJapProvider extends AppWidgetProvider{
+	@Override
+	public void onUpdate(Context context, AppWidgetManager appWidgetManager,
+			int[] appWidgetIds) {
+		RemoteViews remoteViews = new RemoteViews(context.getPackageName(), R.layout.jap_widget_layout);
+		remoteViews.setOnClickPendingIntent(R.id.btnWidgetChange, buildButtonPendingIntent(context));
+		pushWidgetUpdate(context, remoteViews);
+	}
+	
+	public static PendingIntent buildButtonPendingIntent(Context context) {
+		Intent intent = new Intent();
+	    intent.setAction("jap.newword.intent.action.CHANGE_WORD");
+	    return PendingIntent.getBroadcast(context, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
+	}
+
+	public static void pushWidgetUpdate(Context context, RemoteViews remoteViews) {
+		ComponentName myWidget = new ComponentName(context, WidgetWordJapProvider.class);
+	    AppWidgetManager manager = AppWidgetManager.getInstance(context);
+	    manager.updateAppWidget(myWidget, remoteViews);		
+	}
+}

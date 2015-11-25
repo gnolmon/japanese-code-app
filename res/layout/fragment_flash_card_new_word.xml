@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E0E6FF"
+    tools:context="com.example.japaneseapp.CardNewWordActivity$PlaceholderFragment" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#68BF60"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/backUnit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" >
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="0dp"
+                android:background="@drawable/back" />
+
+            <TextView
+                android:id="@+id/tvCharBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/newword"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/flashcard"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="bold"  />
+
+       
+    </RelativeLayout>
+
+    
+
+    <LinearLayout
+        android:id="@+id/spaceflashcard"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:gravity="center" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/flashcardWord"
+            android:layout_width="wrap_content"
+            android:layout_height="400dp" >
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/btnShufflecard"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/shufflebutton" />
+        
+        <Button
+            android:id="@+id/btnFlipcard"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/flip" />
+
+        <Button
+            android:id="@+id/btnPlaycard"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/playbutton" />
+        
+        <Button
+            android:id="@+id/btnSpeak"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/flashspeaker" />
+    </LinearLayout>
+
+</LinearLayout>

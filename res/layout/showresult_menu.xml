@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    tools:context="com.example.japaneseapp.SlidingPaneUnitActivity$PlaceholderFragment" >
+
+    <LinearLayout
+        android:id="@+id/spaceShowResult"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#990033"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvShowResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/result"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+ 
+
+    <ListView
+        android:id="@+id/listShowResult"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/spaceShowResult" >
+    </ListView>
+
+</RelativeLayout>

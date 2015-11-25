@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/backToActivity" >
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/back" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/flashcharacter"
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        android:layout_centerVertical="true" >
+    </android.support.v4.view.ViewPager>
+
+    
+     <Button
+        android:id="@+id/backChar"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/back" />
+     
+    <Button
+        android:id="@+id/nextChar"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/next" />
+    
+   
+    
+
+    <!--
+          <com.lc.SlideView.GIFView
+        android:id="@+id/gif_character"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center_horizontal" />
+    -->
+    <!--
+    <WebView
+        android:id="@+id/wv_detail"
+        android:layout_width="250dp"
+        android:layout_height="250dp"/>
+    -->
+
+</RelativeLayout>

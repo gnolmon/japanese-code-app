@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF" 
+    android:orientation="vertical"
+    tools:context=".MainActivity$PlaceholderFragment" >
+
+    
+    <LinearLayout
+        android:id="@+id/titleCharacter"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#5082E5"
+        android:gravity="center">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+       		android:text="Character"
+       		android:textColor="#FFFFFF"
+       		android:textSize="20dp"
+            />
+        
+        </LinearLayout>
+    <LinearLayout
+        android:id="@+id/spaceOfButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:background="#333333" >
+
+        <Button
+            android:id="@+id/btnChangeTypeChar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:text="A"
+            android:background="@android:color/transparent"/>
+
+        <Button
+            android:id="@+id/btnTest"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="60dp"
+            android:background="@drawable/cardbutton"/>
+
+        <Button
+            android:id="@+id/btnNewWord"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="60dp"
+            android:background="@drawable/newwordbutton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spaceOfButton">
+
+        <GridView
+            android:id="@+id/characterHiraganaGrid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:numColumns="5" >
+        </GridView>
+
+    </LinearLayout>
+
+</LinearLayout>

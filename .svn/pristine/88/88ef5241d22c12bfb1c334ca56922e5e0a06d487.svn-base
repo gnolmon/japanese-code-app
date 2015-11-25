@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A88C7"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/pagerSlide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/mytestslide"
+            android:layout_width="wrap_content"
+            android:layout_height="380dp" >
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/pagerSlide"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnUndo"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/undo"/>
+
+        <Button
+            android:id="@+id/btnCheck"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/check"/>
+
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/reset" />
+
+        <Button
+            android:id="@+id/btnHint"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:text="Hint" />
+    </LinearLayout>
+
+</RelativeLayout>
